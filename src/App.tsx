@@ -169,7 +169,7 @@ function App() {
 
   const loadFontConfig = async () => {
     try {
-      const response = await fetch('/config/fonts.json');
+      const response = await fetch('./config/fonts.json');
       if (!response.ok) {
         throw new Error('Failed to load font configuration');
       }
@@ -183,7 +183,7 @@ function App() {
   const loadTOC = async () => {
     try {
       setLoading(true);
-      const response = await fetch('/toc.json');
+      const response = await fetch('./toc.json');
       if (!response.ok) {
         throw new Error('Failed to load table of contents');
       }
@@ -199,7 +199,7 @@ function App() {
   const loadChapterContent = async (chapter: Chapter) => {
     try {
       setLoading(true);
-      const response = await fetch(`/${chapter.path}`);
+      const response = await fetch(`./${chapter.path}`);
       if (!response.ok) {
         throw new Error(`Failed to load chapter: ${chapter.chapterTitle}`);
       }
