@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build && touch ./docs/.nojekyll",
+    "build": "tsc -b && vite build && touch ./docs/.nojekyll && touch ./docs/assets/.nojekyll ",
     "lint": "eslint .",
     "preview": "vite preview"
   },
