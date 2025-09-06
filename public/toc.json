@@ -1,0 +1,3737 @@
+[
+  {
+    "chapterTitle": "စာအုပ်အဖုံး",
+    "subTitle": "စာအုပ်အဖုံး",
+    "path": "content/cover.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁",
+    "subTitle": "အနက်ရောင် ပိတ်စတစ်စ",
+    "path": "content/chapter-1.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂",
+    "subTitle": "ပုံပြောချိန်",
+    "path": "content/chapter-2.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃",
+    "subTitle": "အမည်မရှိသော အဝါရောင်စာအုပ်",
+    "path": "content/chapter-3.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄",
+    "subTitle": "လေ့ကျင့်ခြင်းနှင့် လေ့လာခြင်း",
+    "path": "content/chapter-4.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅",
+    "subTitle": "ညအခါ လာရောက်လည်ပတ်သူ",
+    "path": "content/chapter-5.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆",
+    "subTitle": "ခေါင်းအုံး",
+    "path": "content/chapter-6.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇",
+    "subTitle": "ဧည့်သည်",
+    "path": "content/chapter-7.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၈",
+    "subTitle": "သင်္ချိုင်းကုန်း",
+    "path": "content/chapter-8.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၉",
+    "subTitle": "အသက်ဆိုတာ ကိန်းဂဏန်းတစ်ခုပါပဲ",
+    "path": "content/chapter-9.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၀",
+    "subTitle": "မေးမြန်းခြင်း၌ အရှက်မရှိ",
+    "path": "content/chapter-10.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၁",
+    "subTitle": "ပဉ္စမမြောက် ဂရင်းမာစတာလား",
+    "path": "content/chapter-11.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၂",
+    "subTitle": "လွှမ်းမိုးသော ချီစွမ်းအင်",
+    "path": "content/chapter-12.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၃",
+    "subTitle": "ရိုင်းစိုင်းပြီး ရိုးရှင်းသော ရှင်းလင်းချက်",
+    "path": "content/chapter-13.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၄",
+    "subTitle": "ပင်လယ်ဆားကုန်သည်",
+    "path": "content/chapter-14.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၅",
+    "subTitle": "ခေတ္တ ခွဲခွာခြင်း, ဖေးဂျေး",
+    "path": "content/chapter-15.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၆",
+    "subTitle": "မြို့တော်မှ စာတစ်စောင်",
+    "path": "content/chapter-16.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၇",
+    "subTitle": "မီးဖိုချောင်သုံးဓားကို သင့်အား ပေးအပ်ပါ၏",
+    "path": "content/chapter-17.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၈",
+    "subTitle": "သွေးနှင့် မျက်ရည်",
+    "path": "content/chapter-18.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၉",
+    "subTitle": "ဂုဏ်သိက္ခာဆိုင်ရာ ကိစ္စတစ်ခု",
+    "path": "content/chapter-19.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၀",
+    "subTitle": "ထိပ်ဆုံးမှာ ရပ်တည်ခြင်း",
+    "path": "content/chapter-20.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၁",
+    "subTitle": "နာကျင်မှု",
+    "path": "content/chapter-21.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၂",
+    "subTitle": "“ကဗျာဆရာများ”",
+    "path": "content/chapter-22.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၃",
+    "subTitle": "မောက်ခိုကျီ",
+    "path": "content/chapter-23.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၄",
+    "subTitle": "လုပ်ကြံသတ်ဖြတ်သူ",
+    "path": "content/chapter-24.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၅",
+    "subTitle": "ကျောက်စိမ်းလို တိုဖူး",
+    "path": "content/chapter-25.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၆",
+    "subTitle": "စောင်ထဲက အဘိုးကြီး",
+    "path": "content/chapter-26.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၇",
+    "subTitle": "Overwatch Council",
+    "path": "content/chapter-27.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၈",
+    "subTitle": "မိန်းမလှလေးနဲ့ ညဘက်စာဖတ်ခြင်း",
+    "path": "content/chapter-28.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၉",
+    "subTitle": "စာအုပ်သူခိုး",
+    "path": "content/chapter-29.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၀",
+    "subTitle": "အတိတ်",
+    "path": "content/chapter-30.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၁",
+    "subTitle": "သီချင်းဆိုလာသော ဧည့်သည်",
+    "path": "content/chapter-31.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၂",
+    "subTitle": "လှေမှောက်ခြင်း",
+    "path": "content/chapter-32.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၃",
+    "subTitle": "အချည်းနှီးသော နှစ်များ",
+    "path": "content/chapter-33.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၄",
+    "subTitle": "အေးစက်သော ဇူး",
+    "path": "content/chapter-34.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၅",
+    "subTitle": "မိုးရွာသောညက အမှတ်တရများ",
+    "path": "content/chapter-35.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၆",
+    "subTitle": "စတုတ္ထနှစ်၏ နွေဦး",
+    "path": "content/chapter-36.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၇",
+    "subTitle": "မြို့တော်သို့လော?",
+    "path": "content/chapter-37.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၈",
+    "subTitle": "နောက်ဆုံးည",
+    "path": "content/chapter-38.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၉",
+    "subTitle": "တန်ကျိုးဆိပ်ကမ်းမှ ထွက်ခွာခြင်း",
+    "path": "content/chapter-39.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၀",
+    "subTitle": "မြို့တော်သို့ ချဉ်းကပ်ခြင်း",
+    "path": "content/chapter-40.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၁",
+    "subTitle": "ဖန့်အိမ်တော်သို့ ဝင်ရောက်ခြင်း",
+    "path": "content/chapter-41.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၂",
+    "subTitle": "လျူးကတော်",
+    "path": "content/chapter-42.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၃",
+    "subTitle": "ရုန်ရုန်၏ သင်ခန်းစာများ",
+    "path": "content/chapter-43.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၄",
+    "subTitle": "ဖခင်နှင့် သား",
+    "path": "content/chapter-44.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၅",
+    "subTitle": "နန်းတွင်းပရိယာယ်များ",
+    "path": "content/chapter-45.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၆",
+    "subTitle": "အဝေးမြို့မှ မိတ်ဆွေဟောင်းများ",
+    "path": "content/chapter-46.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၇",
+    "subTitle": "တန်ဖိုးထားရသော စာအုပ်နီ",
+    "path": "content/chapter-47.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၈",
+    "subTitle": "လမ်းဘေးစာပေ",
+    "path": "content/chapter-48.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၉",
+    "subTitle": "စားသောက်ဆိုင်ထဲမှာ",
+    "path": "content/chapter-49.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၀",
+    "subTitle": "ခွန်အားဆိုတာ ဘာလဲ။",
+    "path": "content/chapter-50.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၁",
+    "subTitle": "ဂျင်အိမ်ရှေ့စံမင်းသား",
+    "path": "content/chapter-51.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၂",
+    "subTitle": "ရထားထဲမှာ",
+    "path": "content/chapter-52.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၃",
+    "subTitle": "တစ်ယောက်တည်း",
+    "path": "content/chapter-53.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၄",
+    "subTitle": "စုံစမ်းစစ်ဆေးရေးကောင်စီအတွင်း",
+    "path": "content/chapter-54.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၅",
+    "subTitle": "သကြားလုံးစောင်းယန်းနှင့် ချင်းဘုရားကျောင်း",
+    "path": "content/chapter-55.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၆",
+    "subTitle": "မြင့်မြတ်သော အမျိုးသား",
+    "path": "content/chapter-56.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၇",
+    "subTitle": "တဖျပ်ဖျပ်ခုန်နေသော နှလုံးသား",
+    "path": "content/chapter-57.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၈",
+    "subTitle": "သူမ ဖြစ်ခဲ့သည်",
+    "path": "content/chapter-58.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၉",
+    "subTitle": "လူငယ်စာရင်းကိုင်",
+    "path": "content/chapter-59.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၀",
+    "subTitle": "ညီအစ်ကိုမောင်နှမ စကားစမြည်ပြောခြင်း",
+    "path": "content/chapter-60.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၁",
+    "subTitle": "အဆိုပြုလွှာ",
+    "path": "content/chapter-61.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၂",
+    "subTitle": "နွေဦး",
+    "path": "content/chapter-62.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၃",
+    "subTitle": "ရိုးရှင်းသော အကြောင်းပြချက်များ",
+    "path": "content/chapter-63.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၄",
+    "subTitle": "ကဗျာ",
+    "path": "content/chapter-64.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၅",
+    "subTitle": "မင်းသား၏ စံအိမ်တော်",
+    "path": "content/chapter-65.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၆",
+    "subTitle": "ကောပေါ့ကွန်းနှင့် နောက်တစ်ကြိမ် တွေ့ဆုံခြင်း",
+    "path": "content/chapter-66.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၇",
+    "subTitle": "ရေကန်စပ်မှာ",
+    "path": "content/chapter-67.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၈",
+    "subTitle": "ပထမဆုံး ထိုးနှက်ချက်",
+    "path": "content/chapter-68.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၉",
+    "subTitle": "ကဗျာတိုက်ပွဲ",
+    "path": "content/chapter-69.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၀",
+    "subTitle": "ဂျင်ဘုရင်၏ ကြေညာချက်",
+    "path": "content/chapter-70.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၁",
+    "subTitle": "စီးလီးလီး",
+    "path": "content/chapter-71.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၂",
+    "subTitle": "သစ်ခွပန်းကဲ့သို့",
+    "path": "content/chapter-72.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၃",
+    "subTitle": "နာကျင်မှုအိတ်",
+    "path": "content/chapter-73.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၄",
+    "subTitle": "တရားစွဲဆိုခြင်း",
+    "path": "content/chapter-74.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၅",
+    "subTitle": "တရားရုံးတော်မှ ပြဇာတ်",
+    "path": "content/chapter-75.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၆",
+    "subTitle": "အငြင်းပွားမှု",
+    "path": "content/chapter-76.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၇",
+    "subTitle": "နန်းတော်ထဲမှာ",
+    "path": "content/chapter-77.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၈",
+    "subTitle": "ပါးရိုက်ခြင်း",
+    "path": "content/chapter-78.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၉",
+    "subTitle": "ပညာရှိ မယ်တော်ကြီး",
+    "path": "content/chapter-79.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၈၀",
+    "subTitle": "သူ့စေ့စပ်ထားသူကို ရှာဖွေခြင်း",
+    "path": "content/chapter-80.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၈၁",
+    "subTitle": "ခန်းမသို့ ဝင်ရောက်ခြင်း",
+    "path": "content/chapter-81.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၈၂",
+    "subTitle": "အခန်းထဲသို့ ဝင်ရောက်ခြင်း",
+    "path": "content/chapter-82.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၈၃",
+    "subTitle": "ပြတင်းပေါက်မှတစ်ဆင့်",
+    "path": "content/chapter-83.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၈၄",
+    "subTitle": "အချိန်ကာလကို ဖြတ်ကျော်လာသော ချစ်သူများ",
+    "path": "content/chapter-84.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၈၅",
+    "subTitle": "မျိုးနွယ်စု စာသင်ကျောင်း",
+    "path": "content/chapter-85.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၈၆",
+    "subTitle": "ချင်းယွီခန်းမမှ ဆိုင်ရှင်ရဲ့",
+    "path": "content/chapter-86.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၈၇",
+    "subTitle": "ခေါင်းအုံးပေါ်က စကားသံများ",
+    "path": "content/chapter-87.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၈၈",
+    "subTitle": "ပုရွက်ဆိတ်က သစ်ပင်တက်နိုင်ပါ့မလား",
+    "path": "content/chapter-88.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၈၉",
+    "subTitle": "နွားလမ်းမပေါ်က လူသတ်လူငယ်လေးရဲ့ အမှု",
+    "path": "content/chapter-89.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၉၀",
+    "subTitle": "စုံစမ်းစစ်ဆေးခြင်း",
+    "path": "content/chapter-90.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၉၁",
+    "subTitle": "လှုပ်ရှားလာသော ဖန့်ရှန့်",
+    "path": "content/chapter-91.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၉၂",
+    "subTitle": "ဝမ်ချီနီယမ်း၏ ဘဝ",
+    "path": "content/chapter-92.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၉၃",
+    "subTitle": "ချန်းကျိုးမြို့ပြင်မှ မြို့တော်အကြောင်း ပြောဆိုခြင်း",
+    "path": "content/chapter-93.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၉၄",
+    "subTitle": "ပန်းဘုရင်မကို ရရှိသွားသော အရာရှိ",
+    "path": "content/chapter-94.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၉၅",
+    "subTitle": "စာအုပ်ရောင်းရင်းနဲ့ ပရောပရည်လုပ်ခြင်းကို မထိခိုက်စေရ",
+    "path": "content/chapter-95.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၉၆",
+    "subTitle": "တန်ဘို စာအုပ်ဆိုင်",
+    "path": "content/chapter-96.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၉၇",
+    "subTitle": "အရာရှိတစ်ဦး၏ ကိုယ့်ကိုယ်ကိုယ် သတ်သေခြင်း",
+    "path": "content/chapter-97.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၉၈",
+    "subTitle": "နတ်ဘုံထောင်ထဲတွင် နူးညံ့သော အမျိုးသမီးတစ်ဦးကို ညှဉ်းပန်းနှိပ်စက်ခြင်း",
+    "path": "content/chapter-98.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၉၉",
+    "subTitle": "ချိုမြိန်သော စကားလုံးများ",
+    "path": "content/chapter-99.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၀၀",
+    "subTitle": "စပျစ်ခြံ ပြိုကျခြင်း",
+    "path": "content/chapter-100.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၀၁",
+    "subTitle": "–",
+    "path": "content/chapter-101.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၀၂",
+    "subTitle": "ဧကရာဇ်ရှေ့မှောက်တွင် လိမ်လည်လှည့်ဖြားခြင်း",
+    "path": "content/chapter-102.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၀၃",
+    "subTitle": "ပဟေဠိထဲမှ အောင်မြင်မှု",
+    "path": "content/chapter-103.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၀၄",
+    "subTitle": "ထိုအမျိုးသမီး",
+    "path": "content/chapter-104.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၀၅",
+    "subTitle": "နွေရာသီ၏ ရောက်ရှိခြင်း",
+    "path": "content/chapter-105.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၀၆",
+    "subTitle": "တောစံအိမ်",
+    "path": "content/chapter-106.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၀၇",
+    "subTitle": "တောင်တန်းများပေါ်မှ လရောင်",
+    "path": "content/chapter-107.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၀၈",
+    "subTitle": "မြစ်တစ်ဖက်မှ အရိုအသေပေးခြင်း",
+    "path": "content/chapter-108.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၀၉",
+    "subTitle": "မသိကျွမ်းသော ရန်သူများကြားမှ တွေ့ဆုံခြင်း",
+    "path": "content/chapter-109.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၁၀",
+    "subTitle": "ချင်းယွီခန်းမတွင် အနာဂတ်အကြောင်း ပြောဆိုခြင်း",
+    "path": "content/chapter-110.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၁၁",
+    "subTitle": "ထိုင်ချန်းကျောင်းတော်တွင် နံနက်ခင်း တန်းစီခြင်း",
+    "path": "content/chapter-111.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၁၂",
+    "subTitle": "လေဆင်နှာမောင်းကို ရိတ်သိမ်းခြင်း",
+    "path": "content/chapter-112.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၁၃",
+    "subTitle": "ယုတ်မာသော တိုက်ခိုက်မှုများ၏ ဂုဏ်ကျက်သရေရှိသော ဓလေ့",
+    "path": "content/chapter-113.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၁၄",
+    "subTitle": "သေတ္တာဖောက်ခွဲနည်းစနစ်နှင့် လှည့်ကွက်ငယ်များ",
+    "path": "content/chapter-114.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၁၅",
+    "subTitle": "တောင်တန်းများ၊ မြစ်ချောင်းများနှင့် နှာရှူဆေးဘူးများ ပေးအပ်ခြင်း",
+    "path": "content/chapter-115.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၁၆",
+    "subTitle": "နွေရာသီ အားလပ်ရက်",
+    "path": "content/chapter-116.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၁၇",
+    "subTitle": "ရေကန်ဘေးမှ ဇီယာနံ့သင်းသင်း",
+    "path": "content/chapter-117.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၁၈",
+    "subTitle": "ရန်ဖြစ်နေသော နတ်သမီးများ၏ ပုံပြင်",
+    "path": "content/chapter-118.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၁၉",
+    "subTitle": "နွေရာသီတွင် ဆီးသီးကိုင်းကို ရှာဖွေခြင်း[^119_mm-1]",
+    "path": "content/chapter-119.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၂၀",
+    "subTitle": "အိမ်ရှေ့စံမင်းသား၏ မြင်းစီးထွက်ခြင်း",
+    "path": "content/chapter-120.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၂၁",
+    "subTitle": "ရာထူးတိုးသော်လည်း ကံမကောင်းခြင်း",
+    "path": "content/chapter-121.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၂၂",
+    "subTitle": "သေတ္တာ၊ အဆိပ်အပ်နှင့် လူသတ်သမား",
+    "path": "content/chapter-122.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၂၃",
+    "subTitle": "မြောက်ပိုင်းချီမှ သံတမန်များ",
+    "path": "content/chapter-123.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၂၄",
+    "subTitle": "အနုပညာမဆန်သော ညှိနှိုင်းမှု",
+    "path": "content/chapter-124.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၂၅",
+    "subTitle": "အဘိုးကြီးနှင့် ရက်စက်ကြမ်းကြုတ်သော ရှောင်ချင်းရှင်း",
+    "path": "content/chapter-125.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၂၆",
+    "subTitle": "အရှေ့နန်းတော်တွင် ရိုးသားမှု",
+    "path": "content/chapter-126.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၂၇",
+    "subTitle": "လောကတွင် ယုံကြည်ရသော လူတစ်ယောက်မျှ မရှိ",
+    "path": "content/chapter-127.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၂၈",
+    "subTitle": "ထိုအေးစက်သော တော်ဝင်နန်းတော်",
+    "path": "content/chapter-128.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၂၉",
+    "subTitle": "တော်ဝင်မိဖုရားငယ်များ",
+    "path": "content/chapter-129.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၃၀",
+    "subTitle": "သင်၏ အနက်ရောင်ဆံပင်ကို ဖြတ်သန်းသွားသော ကျွန်ုပ်၏လက်",
+    "path": "content/chapter-130.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၃၁",
+    "subTitle": "စံအိမ်သို့ အလျင်အမြန် ပြန်လာခြင်း",
+    "path": "content/chapter-131.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၃၂",
+    "subTitle": "မြောက်ပိုင်းမှ သခင်လေးယန်၏ ထိတ်လန့်ဖွယ်ရာ သတင်း",
+    "path": "content/chapter-132.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၃၃",
+    "subTitle": "ညစ်ပတ်သော လျှို့ဝှက်သဘောတူညီချက်",
+    "path": "content/chapter-133.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၃၄",
+    "subTitle": "ညစာစားပွဲတော်",
+    "path": "content/chapter-134.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၃၅",
+    "subTitle": "ခေတ်အဆက်ဆက်မှ ထွန်းတောက်သူများ",
+    "path": "content/chapter-135.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၃၆",
+    "subTitle": "မူးယစ်ကာ နန်းတော်ဝင်ရန် ကြံစည်ခြင်း",
+    "path": "content/chapter-136.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၃၇",
+    "subTitle": "မိန်းမစိုးဟုန်",
+    "path": "content/chapter-137.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၃၈",
+    "subTitle": "လူတိုင်း၏ နှလုံးသားထဲတွင် သော့တစ်ချောင်းရှိသည်",
+    "path": "content/chapter-138.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၃၉",
+    "subTitle": "ကွမ်းရှင်းနန်းတော်",
+    "path": "content/chapter-139.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၄၀",
+    "subTitle": "လူသတ်သမားက ဘယ်သူလဲ။",
+    "path": "content/chapter-140.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၄၁",
+    "subTitle": "သေတ္တာ၏ လျှို့ဝှက်ချက်များ (အပိုင်း ၁)",
+    "path": "content/chapter-141.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၄၂",
+    "subTitle": "သေတ္တာ၏ လျှို့ဝှက်ချက်များ (အပိုင်း ၂)",
+    "path": "content/chapter-142.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၄၃",
+    "subTitle": "ဆောင်းဦးမိုးအပြီး ရှင်းလင်းမှု",
+    "path": "content/chapter-143.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၄၄",
+    "subTitle": "နှင်းကဲ့သို့သော လက်ကမ်းစာစောင်များ",
+    "path": "content/chapter-144.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၄၅",
+    "subTitle": "တွက်ချက်ခြင်း",
+    "path": "content/chapter-145.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၄၆",
+    "subTitle": "ကဗျာပေါင်းချုပ်များနှင့် တိုင်စာများ",
+    "path": "content/chapter-146.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၄၇",
+    "subTitle": "ခမ်းနားသောမင်္ဂလာပွဲ (အပိုင်း ၁)",
+    "path": "content/chapter-147.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၄၈",
+    "subTitle": "ခမ်းနားသောမင်္ဂလာပွဲ (အပိုင်း ၂)",
+    "path": "content/chapter-148.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၄၉",
+    "subTitle": "လက်ဆောင်များ (အပိုင်း ၁)",
+    "path": "content/chapter-149.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၅၀",
+    "subTitle": "လက်ဆောင်များ (အပိုင်း ၂)",
+    "path": "content/chapter-150.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၅၁",
+    "subTitle": "–",
+    "path": "content/chapter-151.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၅၂",
+    "subTitle": "–",
+    "path": "content/chapter-152.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၅၃",
+    "subTitle": "–",
+    "path": "content/chapter-153.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၅၄",
+    "subTitle": "–",
+    "path": "content/chapter-154.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၅၅",
+    "subTitle": "နန်းတွင်းဆွေးနွေးပွဲများ (အပိုင်း ၁)",
+    "path": "content/chapter-155.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၅၆",
+    "subTitle": "နန်းတွင်း ဆွေးနွေးငြင်းခုံမှုများ (အပိုင်း ၂)",
+    "path": "content/chapter-156.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၅၇",
+    "subTitle": "ဖန့်ရုန်ရုန်၏ လျှို့ဝှက်ချက်",
+    "path": "content/chapter-157.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၅၈",
+    "subTitle": "မြို့တော်သို့ ပြန်ခြင်း",
+    "path": "content/chapter-158.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၅၉",
+    "subTitle": "ဒုတိယမင်းသား",
+    "path": "content/chapter-159.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၆၀",
+    "subTitle": "မြစ်ကမ်းနားက ပင်ပန်းစေတယ်",
+    "path": "content/chapter-160.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၆၁",
+    "subTitle": "စာမေးပွဲ",
+    "path": "content/chapter-161.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၆၂",
+    "subTitle": "စာစစ်သူဖြစ်ရတာက တကယ်ကို စိတ်ဝင်စားစရာကောင်းတဲ့အလုပ်ပဲ",
+    "path": "content/chapter-162.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၆၃",
+    "subTitle": "နွေဦးလေနှင့်မိုးသည် နန်းတွင်းစာမေးပွဲများသို့ ဝင်ရောက်လာသည်",
+    "path": "content/chapter-163.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၆၄",
+    "subTitle": "ရှင်လည်းရှုပ်၊ ကျွန်တော်လည်းရှုပ်…အားလုံးရှုပ်ထွေးကုန်ပြီ",
+    "path": "content/chapter-164.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၆၅",
+    "subTitle": "မိုးကြိုးတစ်ချက် ပစ်ချခြင်း",
+    "path": "content/chapter-165.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၆၆",
+    "subTitle": "စာမေးပွဲခန်းမဆောင်တွင် လိမ်လည်ခြင်း",
+    "path": "content/chapter-166.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၆၇",
+    "subTitle": "မိုးထဲက ဧည့်သည် (အပိုင်း ၁)",
+    "path": "content/chapter-167.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၆၈",
+    "subTitle": "မိုးထဲက ဧည့်သည် (အပိုင်း ၂)",
+    "path": "content/chapter-168.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၆၉",
+    "subTitle": "ထက်မြက်သောနေ့တစ်နေ့",
+    "path": "content/chapter-169.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၇၀",
+    "subTitle": "တော်ဝင်ကြေညာချက်",
+    "path": "content/chapter-170.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၇၁",
+    "subTitle": "အာဏာရှိဝန်ကြီး လမ်းပေါ်ထွက်ပြီ",
+    "path": "content/chapter-171.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၇၂",
+    "subTitle": "မြို့တော်အရာရှိများ၏ တန်ပြန်တိုက်ခိုက်မှု",
+    "path": "content/chapter-172.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၇၃",
+    "subTitle": "ငြင်းခုံခြင်း",
+    "path": "content/chapter-173.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၇၄",
+    "subTitle": "တရားရေးဝန်ကြီးဌာနတွင် ပရမ်းပတာဖြစ်ခြင်း",
+    "path": "content/chapter-174.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၇၅",
+    "subTitle": "ကော်မရှင်နာ! ကော်မရှင်နာ!",
+    "path": "content/chapter-175.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၇၆",
+    "subTitle": "စံအိမ်သို့ ပထမဆုံးအကြိမ် လည်ပတ်ခြင်း",
+    "path": "content/chapter-176.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၇၇",
+    "subTitle": "စုံစမ်းစစ်ဆေးရေးကောင်စီ အစစ်အမှန်",
+    "path": "content/chapter-177.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၇၈",
+    "subTitle": "လူ့လောကထဲက အရိပ်တစ်ခု",
+    "path": "content/chapter-178.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၇၉",
+    "subTitle": "ပန်းငယ်လေး",
+    "path": "content/chapter-179.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၈၀",
+    "subTitle": "သွေးအေးစေသော ကိရိယာများ",
+    "path": "content/chapter-180.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၈၁",
+    "subTitle": "ဘုရားကို စော်ကားခြင်း",
+    "path": "content/chapter-181.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၈၂",
+    "subTitle": "ည",
+    "path": "content/chapter-182.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၈၃",
+    "subTitle": "ရှောင်အန်း ထောင်မှထွက်ခြင်း",
+    "path": "content/chapter-183.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၈၄",
+    "subTitle": "မြို့တော်အပြင်ဘက်",
+    "path": "content/chapter-184.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၈၅",
+    "subTitle": "ကျွမ်းကျင်မှုမရှိသော အဆိပ်ခတ်ခြင်း",
+    "path": "content/chapter-185.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၈၆",
+    "subTitle": "မြင်းရထားထဲက အချစ်ဇာတ်လမ်း",
+    "path": "content/chapter-186.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၈၇",
+    "subTitle": "စစ်ဆင်ရေး အဖြူရောင်အင်္ကျီလက်",
+    "path": "content/chapter-187.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၈၈",
+    "subTitle": "ရှောင်အန်းထံမှ သင်ယူခြင်း",
+    "path": "content/chapter-188.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၈၉",
+    "subTitle": "မြို့တော်မှ တိတ်ဆိတ်သော သတ်ဖြတ်မှုများ",
+    "path": "content/chapter-189.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၉၀",
+    "subTitle": "ဆီစိမ်စက္ကူထီးထဲမှ ဓားတစ်လက်",
+    "path": "content/chapter-190.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၉၁",
+    "subTitle": "ရေကန်ပေါ်မှ ငှက်ဖြူများ၊ စိတ်ထဲမှ လူများ",
+    "path": "content/chapter-191.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၉၂",
+    "subTitle": "စီးလီးလီး၏ လျှို့ဝှက်ချက်",
+    "path": "content/chapter-192.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၉၃",
+    "subTitle": "အကြီးအကဲမင်းသမီး၏ အမြင်",
+    "path": "content/chapter-193.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၉၄",
+    "subTitle": "လှောင်အိမ်မှ လွတ်မြောက်ခြင်း",
+    "path": "content/chapter-194.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၉၅",
+    "subTitle": "တံခါးဖွင့်၊ ခွေးလွှတ်",
+    "path": "content/chapter-195.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၉၆",
+    "subTitle": "မင်းသေ၊ ငါရှင်",
+    "path": "content/chapter-196.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၉၇",
+    "subTitle": "မြက်ခင်းပြင်မှ ထိတ်လန့်ဖွယ်ရာ ဖြစ်ပေါ်တိုးတက်မှုများ",
+    "path": "content/chapter-197.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၉၈",
+    "subTitle": "ဟိုင်ထန်တောတော",
+    "path": "content/chapter-198.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၁၉၉",
+    "subTitle": "သီလနှင့် ယှဉ်သော အရှက်မဲ့ခြင်း",
+    "path": "content/chapter-199.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၀၀",
+    "subTitle": "ခေါင်းစဉ်မရှိ",
+    "path": "content/chapter-200.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၀၁",
+    "subTitle": "ဟိုင်ထန်၏ ကာမရာဂ",
+    "path": "content/chapter-201.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၀၂",
+    "subTitle": "စိတ်ပိုင်းဆိုင်ရာ စစ်ပွဲ၏ နိဒါန်း",
+    "path": "content/chapter-202.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၀၃",
+    "subTitle": "စကားတစ်ခွန်း၊ နှလုံးသား",
+    "path": "content/chapter-203.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၀၄",
+    "subTitle": "ဝူဒူဟယ်",
+    "path": "content/chapter-204.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၀၅",
+    "subTitle": "လမ်းဘေးမှာ",
+    "path": "content/chapter-205.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၀၆",
+    "subTitle": "ရှန့်ကျင်းသို့ ရောက်ရှိခြင်း",
+    "path": "content/chapter-206.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၀၇",
+    "subTitle": "အစက်အပြောက်ထနေသော မြို့ရိုးများပေါ်မှ ထူထဲသောည",
+    "path": "content/chapter-207.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၀၈",
+    "subTitle": "သံတမန်အဖွဲ့ နန်းတော်သို့ ဝင်ရောက်ခြင်း",
+    "path": "content/chapter-208.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၀၉",
+    "subTitle": "ဧကရာဇ်နှင့် စကားစမြည်ပြောဆိုခြင်း",
+    "path": "content/chapter-209.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၁၀",
+    "subTitle": "ဖန့်အမည်ရှိ အရည်အချင်းရှိသူများစွာ ရှိသည်",
+    "path": "content/chapter-210.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၁၁",
+    "subTitle": "တကယ့် တောသူလေးပါပဲ။",
+    "path": "content/chapter-211.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၁၂",
+    "subTitle": "အပြန်အလှန်",
+    "path": "content/chapter-212.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၁၃",
+    "subTitle": "တိုက်ခိုက်သော သံတမန်အဖွဲ့",
+    "path": "content/chapter-213.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၁၄",
+    "subTitle": "ထန်ဝူသည် စာပေသမားမဟုတ်",
+    "path": "content/chapter-214.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၁၅",
+    "subTitle": "ရှို့ရွှေလမ်းပေါ်မှ ဆိုင်အို",
+    "path": "content/chapter-215.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၁၆",
+    "subTitle": "နန်းတွင်းစီးပွားရေးမှ ဖြစ်ပေါ်တိုးတက်မှုများ",
+    "path": "content/chapter-216.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၁၇",
+    "subTitle": "ချန်နင်ဟို၏ စံအိမ်",
+    "path": "content/chapter-217.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၁၈",
+    "subTitle": "ချမ်းသာချင်သလား။",
+    "path": "content/chapter-218.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၁၉",
+    "subTitle": "အမတ်ကြီး ဖန့်နှင့် ဘာဆိုင်သလဲ။",
+    "path": "content/chapter-219.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၂၀",
+    "subTitle": "ယန်ပင်းယွင်ကို ပထမဆုံးအကြိမ် တွေ့မြင်ခြင်း",
+    "path": "content/chapter-220.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၂၁",
+    "subTitle": "အဖြူရောင်ဝတ်ရုံကို ဆုတ်ဖြဲခြင်း",
+    "path": "content/chapter-221.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၂၂",
+    "subTitle": "စိတ်ကူးယဉ်ဝါဒီများ",
+    "path": "content/chapter-222.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၂၃",
+    "subTitle": "မိုးထဲတွင် ရှန်ကျုံးနှင့် တွေ့ဆုံခြင်း",
+    "path": "content/chapter-223.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၂၄",
+    "subTitle": "လူငယ် ယန် လွတ်မြောက်ခြင်း",
+    "path": "content/chapter-224.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၂၅",
+    "subTitle": "အရာရာက ခင်ဗျားထင်သလို မဟုတ်ဘူး",
+    "path": "content/chapter-225.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၂၆",
+    "subTitle": "ကြံစည်မှု",
+    "path": "content/chapter-226.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၂၇",
+    "subTitle": "သားသမီးကို ချစ်သော ယောကျာ်းကောင်း",
+    "path": "content/chapter-227.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၂၈",
+    "subTitle": "လမ်းကြားထဲမှ သတ်ဖြတ်ခြင်း",
+    "path": "content/chapter-228.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၂၉",
+    "subTitle": "ရှန့်ကျင်းမြို့မှ လျှို့ဝှက်သူလျှိုများ",
+    "path": "content/chapter-229.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၃၀",
+    "subTitle": "ဝမ်းမြောက်ဖွယ် သတင်း",
+    "path": "content/chapter-230.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၃၁",
+    "subTitle": "ရုန်ရုန် လက်ထပ်တော့မည်!",
+    "path": "content/chapter-231.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၃၂",
+    "subTitle": "များလေ ကောင်းလေ",
+    "path": "content/chapter-232.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၃၃",
+    "subTitle": "ထောင်ဖောက်ခြင်းကို အပေါ်စီးမှ ကြည့်ရှုခြင်း",
+    "path": "content/chapter-233.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၃၄",
+    "subTitle": "ချောင်းမြောင်းတိုက်ခိုက်ခြင်း",
+    "path": "content/chapter-234.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၃၅",
+    "subTitle": "ရှုံးနိမ့်ခြင်း",
+    "path": "content/chapter-235.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၃၆",
+    "subTitle": "ဖန့်ရှန့် နောက်ယောင်ခံလိုက်ခြင်း",
+    "path": "content/chapter-236.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၃၇",
+    "subTitle": "စိုစွတ်သောထင်းနှင့် ယုတ်မာသောတိုက်ကွက်များ",
+    "path": "content/chapter-237.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၃၈",
+    "subTitle": "ဖန့်ရှန့် ချောက်ကမ်းပါးမှ ခုန်ချခြင်း",
+    "path": "content/chapter-238.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၃၉",
+    "subTitle": "ဤကမ္ဘာမှ ခရီးသွားတစ်ဦး",
+    "path": "content/chapter-239.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၄၀",
+    "subTitle": "ထာဝရည၏ ကျောင်းတော်",
+    "path": "content/chapter-240.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၄၁",
+    "subTitle": "ကျောင်းတော်မှ ထွက်ပြေးလာသော မိန်းကလေးငယ်",
+    "path": "content/chapter-241.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၄၂",
+    "subTitle": "ကျောင်းတော်၏ လျှို့ဝှက်ချက်",
+    "path": "content/chapter-242.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၄၃",
+    "subTitle": "မျက်စိမှိတ်ပြီး ငြိမ်းချမ်းစွာနေပါ",
+    "path": "content/chapter-243.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၄၄",
+    "subTitle": "ဘာလို့ တစ်ခါទៀត မျက်နှာဖြူဖျော့သွားရတာလဲ။",
+    "path": "content/chapter-244.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၄၅",
+    "subTitle": "ဘာလို့လာတာလဲ ရှန့်ရှန့်။",
+    "path": "content/chapter-245.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၄၆",
+    "subTitle": "သီလရှင်ကျောင်းသို့ သွားလော့",
+    "path": "content/chapter-246.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၄၇",
+    "subTitle": "လယ်ယာစိုက်ပျိုးခြင်း၊ သောက်စားခြင်း၊ စကားစမြည်ပြောဆိုခြင်းနှင့် အနာဂတ်ကို ဆုံးဖြတ်ခြင်း",
+    "path": "content/chapter-247.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၄၈",
+    "subTitle": "ဤကမ္ဘာ၊ ဤအမျိုးသမီး!",
+    "path": "content/chapter-248.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၄၉",
+    "subTitle": "နန်းတော်ပြိုင်ပွဲတွင် တိုက်ခိုက်ခြင်းနှင့် ဟန်ဆောင်တိုက်ခိုက်ခြင်း",
+    "path": "content/chapter-249.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၅၀",
+    "subTitle": "မော့ကြည့်၊ ငုံ့ကြည့်ပြီးမှ ရယ်မောခြင်း",
+    "path": "content/chapter-250.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၅၁",
+    "subTitle": "ဘုရင်မင်းမြတ်တောင် အတင်းပြောတတ်တယ်",
+    "path": "content/chapter-251.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၅၂",
+    "subTitle": "လက်ဆင့်ကမ်းခြင်း",
+    "path": "content/chapter-252.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၅၃",
+    "subTitle": "တန်ဆောင်းရှည်၊ လမ်းဟောင်းနဲ့ လက်ကိုင်ပုဝါပစ်တမ်းကစားခြင်း",
+    "path": "content/chapter-253.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၅၄",
+    "subTitle": "ဆောင်းဦးရိတ်သိမ်းပွဲ",
+    "path": "content/chapter-254.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၅၅",
+    "subTitle": "–",
+    "path": "content/chapter-255.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၅၆",
+    "subTitle": "မိသားစုကိစ္စ",
+    "path": "content/chapter-256.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၅၇",
+    "subTitle": "အလျင်စလို",
+    "path": "content/chapter-257.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၅၈",
+    "subTitle": "နောက်ဆောင်မှ ရှုပ်ထွေးမှုများ",
+    "path": "content/chapter-258.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၅၉",
+    "subTitle": "နဝမလ",
+    "path": "content/chapter-259.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၆၀",
+    "subTitle": "ရထားလုံးအထက်မှ ကောင်းကင်၊ နန်းတော်ထဲမှ ပဲပင်ပေါက်",
+    "path": "content/chapter-260.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၆၁",
+    "subTitle": "နန်းတော်အပြင်ဘက်မှ သခင်များ",
+    "path": "content/chapter-261.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၆၂",
+    "subTitle": "တစ်ကိုယ်တော်ဗျူရို",
+    "path": "content/chapter-262.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၆၃",
+    "subTitle": "ဗျူရိုထဲက လူငယ်လေး",
+    "path": "content/chapter-263.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၆၄",
+    "subTitle": "စည်းကမ်းတင်းကြပ်ခြင်း!",
+    "path": "content/chapter-264.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၆၅",
+    "subTitle": "ရှင်းဖုန်းစားသောက်ဆိုင်",
+    "path": "content/chapter-265.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၆၆",
+    "subTitle": "သူမက ကိုယ့်ကိုယ်ကိုယ်လေးစားမှုပြတော့၊ ခင်ဗျားက လူယုတ်မာဖြစ်သွားတယ်",
+    "path": "content/chapter-266.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၆၇",
+    "subTitle": "မိန်းမစိုးတိုက်၏ ပညာရှိသော ဆုံးဖြတ်ချက်",
+    "path": "content/chapter-267.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၆၈",
+    "subTitle": "အဖြူအမည်းကြားက ကြားဖြတ်ဇာတ်လမ်း",
+    "path": "content/chapter-268.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၆၉",
+    "subTitle": "သူတော်စင်တစ်ယောက်လား။",
+    "path": "content/chapter-269.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၇၀",
+    "subTitle": "နန်းတွင်းမုန်တိုင်းထဲမှ တိုင်ကြားစာ",
+    "path": "content/chapter-270.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၇၁",
+    "subTitle": "အန်းချီ",
+    "path": "content/chapter-271.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၇၂",
+    "subTitle": "နန်းတော်ရှေ့မှ ရင်ဆိုင်တွေ့ဆုံမှု",
+    "path": "content/chapter-272.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၇၃",
+    "subTitle": "တရားရုံးတော်မှ အချေအတင်ပြောဆိုခြင်း",
+    "path": "content/chapter-273.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၇၄",
+    "subTitle": "ကြိမ်ဒဏ်များ",
+    "path": "content/chapter-274.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၇၅",
+    "subTitle": "အမှောင်ထဲမှ တောက်ပသောလက်သီး",
+    "path": "content/chapter-275.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၇၆",
+    "subTitle": "နန်းတော်အတွင်းနှင့် အပြင်မှ လူငယ်များ",
+    "path": "content/chapter-276.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၇၇",
+    "subTitle": "ဂျင်ဘုရင်၏ မွေးနေ့ပွဲတော်",
+    "path": "content/chapter-277.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၇၈",
+    "subTitle": "ပြည်ပမှာ ပညာသင်ရတာ တန်ရဲ့လား။",
+    "path": "content/chapter-278.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၇၉",
+    "subTitle": "အသစ်ထိုးထားတဲ့ လက်ကိုင်ပုဝါ လိုချင်သလား။",
+    "path": "content/chapter-279.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၈၀",
+    "subTitle": "ပေါင်ယွဲ့ပြည့်တန်ဆာခန်း",
+    "path": "content/chapter-280.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၈၁",
+    "subTitle": "ဆန်းဝန်",
+    "path": "content/chapter-281.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၈၂",
+    "subTitle": "ဖန့်ရှန့်၏ တိုက်ခိုက်ခြင်း",
+    "path": "content/chapter-282.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၈၃",
+    "subTitle": "ရက်စက်သော တိုက်ပွဲ",
+    "path": "content/chapter-283.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၈၄",
+    "subTitle": "လမ်းပိတ်ဆို့ခြင်း",
+    "path": "content/chapter-284.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၈၅",
+    "subTitle": "လမ်းပိတ်ဆို့သော ပုစဉ်းရင်ကွဲ",
+    "path": "content/chapter-285.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၈၆",
+    "subTitle": "စိုးရိမ်စရာတစ်ခုရှိသည်",
+    "path": "content/chapter-286.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၈၇",
+    "subTitle": "သူရဲကောင်းတို့သည် ငယ်ရွယ်စဉ်ကတည်းက စတင်ကြသည်",
+    "path": "content/chapter-287.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၈၈",
+    "subTitle": "ငါနဲ့အတူ အိမ်ပြန်လိုက်ခဲ့",
+    "path": "content/chapter-288.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၈၉",
+    "subTitle": "ပိတ်သိမ်းခြင်း",
+    "path": "content/chapter-289.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၉၀",
+    "subTitle": "ညီအစ်ကို",
+    "path": "content/chapter-290.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၉၁",
+    "subTitle": "မိသားစုစည်းကမ်း",
+    "path": "content/chapter-291.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၉၂",
+    "subTitle": "ဖန့်အဘိုးကြီးနှင့် ဖန့်လူငယ်",
+    "path": "content/chapter-292.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၉၃",
+    "subTitle": "ပြည်နှင်ဒဏ်",
+    "path": "content/chapter-293.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၉၄",
+    "subTitle": "အတူတကွ ဆွဲခေါ်ခြင်း",
+    "path": "content/chapter-294.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၉၅",
+    "subTitle": "မြို့တော်အပြင်ဘက်မှ ည",
+    "path": "content/chapter-295.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၉၆",
+    "subTitle": "ပြန်လည်သိမ်းယူခြင်း",
+    "path": "content/chapter-296.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၉၇",
+    "subTitle": "ပြည့်တန်ဆာများ၊ လမ်းသွားလမ်းလာများနှင့် မိုးသည်းထန်စွာရွာသွန်းမှု လုပ်ကြံသတ်ဖြတ်ခြင်း",
+    "path": "content/chapter-297.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၉၈",
+    "subTitle": "မြို့တော်အစိုးရရုံးအပြင်ဘက်မှ နှုတ်ဆက်ခြင်းများ",
+    "path": "content/chapter-298.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၂၉၉",
+    "subTitle": "သစ်ရွက်ကြွေကျခြင်းကို ကြည့်ရှုခြင်းတွင် အမှားအယွင်းမရှိ",
+    "path": "content/chapter-299.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၀၀",
+    "subTitle": "ဆေး",
+    "path": "content/chapter-300.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၀၁",
+    "subTitle": "တံတိုင်း၏ ဤဘက်တွင် ဒန်းတစ်စီးရှိပြီး၊ တစ်ဖက်တွင် လမ်းမတစ်ခုရှိသည်",
+    "path": "content/chapter-301.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၀၂",
+    "subTitle": "ချင်းဥယျာဉ်မှ ဧည့်သည်များ",
+    "path": "content/chapter-302.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၀၃",
+    "subTitle": "ဆောင်းဦးတောအုပ်၊ လျှို့ဝှက်ချက်များ နှင့် အကျိုးဆက်များ",
+    "path": "content/chapter-303.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၀၄",
+    "subTitle": "ဂန္ဓမာပန်း၊ ရှေးဟောင်းဓားများနှင့် သေရည် (အပိုင်း ၁)",
+    "path": "content/chapter-304.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၀၅",
+    "subTitle": "ဂန္ဓမာပန်း၊ ရှေးဟောင်းဓားများနှင့် သေရည် (အပိုင်း ၂)",
+    "path": "content/chapter-305.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၀၆",
+    "subTitle": "ဓားမြှောင်၊ ဓားမြှောင်ကို နောက်တစ်ကြိမ်မြင်တွေ့ခြင်း",
+    "path": "content/chapter-306.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၀၇",
+    "subTitle": "နန်းတော်ထဲမှ ဒဏ်ရာရသူ",
+    "path": "content/chapter-307.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၀၈",
+    "subTitle": "ဖယောင်းတိုင်မီးရောင်အောက်မှ ခွဲစိတ်မှု",
+    "path": "content/chapter-308.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၀၉",
+    "subTitle": "ဇီးသီးဥယျာဉ်ထဲမှ လူနာ",
+    "path": "content/chapter-309.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၁၀",
+    "subTitle": "မိုးကြိုးပစ်ခြင်း",
+    "path": "content/chapter-310.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၁၁",
+    "subTitle": "အကြီးဆုံးမင်းသား လာရောက်လည်ပတ်ခြင်း",
+    "path": "content/chapter-311.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၁၂",
+    "subTitle": "ဆုလာဘ်နှင့် စကားစမြည်ပြောဆိုခြင်း",
+    "path": "content/chapter-312.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၁၃",
+    "subTitle": "အချစ်စာ",
+    "path": "content/chapter-313.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၁၄",
+    "subTitle": "စိုးရိမ်စိတ်ဖြင့် ဥယျာဉ်တစ်ခွင် လှည့်လည်ခြင်း (အပိုင်း ၁)",
+    "path": "content/chapter-314.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၁၅",
+    "subTitle": "စိုးရိမ်စိတ်ဖြင့် ဥယျာဉ်တစ်ခွင် လှည့်လည်ခြင်း (အပိုင်း ၂)",
+    "path": "content/chapter-315.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၁၆",
+    "subTitle": "စိုးရိမ်စိတ်ဖြင့် ဥယျာဉ်တစ်ခွင် လှည့်လည်ခြင်း (အပိုင်း ၃)",
+    "path": "content/chapter-316.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၁၇",
+    "subTitle": "ရှန်းကျင်းမြို့၏ နှင်း",
+    "path": "content/chapter-317.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၁၈",
+    "subTitle": "မဟာသိုင်းပညာရှင်ကြီးများ၊ ဈေးကွက်နက် နှင့် ပဟေဠိများ",
+    "path": "content/chapter-318.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၁၉",
+    "subTitle": "ကော်မရှင်နာဖန့်ကို ဘယ်သူသတ်နိုင်မှာလဲ။",
+    "path": "content/chapter-319.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၁၉",
+    "subTitle": "ကော်မရှင်နာဖန့်ကို ဘယ်သူသတ်နိုင်မှာလဲ။",
+    "path": "content/chapter-320.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၂၀",
+    "subTitle": "တောင်ပေါ်နေထိုင်မှု မှတ်စုများ",
+    "path": "content/chapter-321.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၂၂",
+    "subTitle": "ဖခင်ကိုသိခြင်းထက် မိခင်ကိုသိခြင်းက ပိုကောင်းသည်",
+    "path": "content/chapter-322.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၂၃",
+    "subTitle": "ချင်းပြည်သူတို့၏ ရဲ့မိသားစုအပေါ် စုပေါင်းအမှတ်တရ",
+    "path": "content/chapter-323.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၂၄",
+    "subTitle": "ချင်းပြည်သူတို့၏ ရဲ့မိသားစုအပေါ် စုပေါင်းအမှတ်တရ",
+    "path": "content/chapter-324.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၂၅",
+    "subTitle": "အဝတ်ကြမ်းဝတ် မဟာသိုင်းပညာရှင်ကြီးတို့၏ တိုက်ပွဲ",
+    "path": "content/chapter-325.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၂၆",
+    "subTitle": "ဖန့်အိမ်တော်၏ အပြောင်းအလဲများ",
+    "path": "content/chapter-326.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၂၇",
+    "subTitle": "နန်းတော်ထဲမှ မျှော်စင်ငယ်လေးထဲမှ လျှို့ဝှက်လှုပ်ရှားမှုများ",
+    "path": "content/chapter-327.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၂၅",
+    "subTitle": "အဝတ်ကြမ်းဝတ် မဟာသိုင်းပညာရှင်ကြီးတို့၏ တိုက်ပွဲ",
+    "path": "content/chapter-328.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၂၉",
+    "subTitle": "သင့်အနေဖြင့် ကြယ်ကြွေတစ်စင်းကဲ့သို့ အောင်မြင်ပါစေဟု ဆုတောင်းပေးလိုက်ပါ၏",
+    "path": "content/chapter-329.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၃၀",
+    "subTitle": "မထွက်ခွာမီ လှုပ်ရှားမှု (အပိုင်း ၁)",
+    "path": "content/chapter-330.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၃၁",
+    "subTitle": "မထွက်ခွာမီ လှုပ်ရှားမှု (အပိုင်း ၂)",
+    "path": "content/chapter-331.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၃၂",
+    "subTitle": "ယင်းကျိုးတွင် ကျောက်ချရပ်နားစဉ် ဓားပြများ ရောက်ရှိလာခြင်း",
+    "path": "content/chapter-332.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၃၃",
+    "subTitle": "ချင်နိုင်ငံ၏ အကြီးဆုံး ဓားပြသင်္ဘော",
+    "path": "content/chapter-333.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၃၄",
+    "subTitle": "အခြေအနေတစ်ခု",
+    "path": "content/chapter-334.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၃၅",
+    "subTitle": "မင်းတို့ ဝိုင်းခံထားရပြီ",
+    "path": "content/chapter-335.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၃၆",
+    "subTitle": "ဓားပြခေါင်းဆောင်အား စည်းရုံးခြင်း",
+    "path": "content/chapter-336.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၃၇",
+    "subTitle": "သစ္စာခံခြင်းနှင့် ဖန့်ရှန့်၏ မျက်နှာစာနှင့် အရိပ်",
+    "path": "content/chapter-337.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၃၈",
+    "subTitle": "ငွေရောင်မြစ်တစ်စင်းနှင့် လက်ဆောင်များ လက်ခံရ၍ အလုပ်များခြင်း",
+    "path": "content/chapter-338.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၃၉",
+    "subTitle": "မျှော်စင်အထက် မျှော်စင်ရှိ၏၊ လူအထက် လူရှိ၏",
+    "path": "content/chapter-339.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၄၀",
+    "subTitle": "ပန်းရောင်းသောမိန်းကလေးနှင့် အရှက်မရှိသော အရာရှိ",
+    "path": "content/chapter-340.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၄၁",
+    "subTitle": "ငယ်ဘဝက မမျှော်လင့်တဲ့ အတန်းဖော်များ",
+    "path": "content/chapter-341.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၄၂",
+    "subTitle": "ကောင်းကင်ဘုံမှ မင်္ဂလာနိမိတ်",
+    "path": "content/chapter-342.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၄၃",
+    "subTitle": "ပန်းကန်ကိုမော့၍ ဆန်ပြုတ်သောက်၊ တူကိုချ၍ ကျိန်ဆဲ",
+    "path": "content/chapter-343.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၄၄",
+    "subTitle": "နဂါးထခြင်း[^344_mm-1]",
+    "path": "content/chapter-344.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၄၅",
+    "subTitle": "ငွေတိုက်နှင့် ပြည့်တန်ဆာအိမ်",
+    "path": "content/chapter-345.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၄၆",
+    "subTitle": "လူကြီးလူကောင်းတစ်ဦး ဓနဥစ္စာရရှိပုံ",
+    "path": "content/chapter-346.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၄၇",
+    "subTitle": "ရှန်ဒေးသို့ ရောက်ရှိခြင်း",
+    "path": "content/chapter-347.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၄၈",
+    "subTitle": "အလွန်အာဏာရှင်ဆန်ပြီး ဒုက္ခကို သည်းမခံနိုင်ခြင်း",
+    "path": "content/chapter-348.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၄၉",
+    "subTitle": "နန်းတော်ဘဏ္ဍာတိုက် သပိတ်မှောက်ခြင်း",
+    "path": "content/chapter-349.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၅၀",
+    "subTitle": "တော်ဝင်သံတမန် အဘယ်ကြောင့် ဒေါသထွက်ခဲ့သနည်း",
+    "path": "content/chapter-350.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၅၁",
+    "subTitle": "ဆိုင်ရှင်အို",
+    "path": "content/chapter-351.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၅၂",
+    "subTitle": "လွတ်လပ်သော အသိစိတ်ရှိသော သွေးကျောက်တုံး",
+    "path": "content/chapter-352.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၅၃",
+    "subTitle": "အချို့အရာများကို လုပ်နိုင်သော်လည်း မပြောနိုင်",
+    "path": "content/chapter-353.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၅၄",
+    "subTitle": "နွေဦး၏ လမ်း",
+    "path": "content/chapter-354.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၅၅",
+    "subTitle": "မြောက်ပိုင်းချီဘုရင်မင်းမြတ်၏ လက်ကိုကိုင်ရန် သင်၏လက်ကို ငှားရမ်းခြင်း",
+    "path": "content/chapter-355.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၅၇",
+    "subTitle": "အသက်၏လည်ချောင်းကို ညှစ်ခြင်း",
+    "path": "content/chapter-356.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၅၇",
+    "subTitle": "အသက်၏လည်ချောင်းကို ညှစ်ခြင်း",
+    "path": "content/chapter-357.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၅၈",
+    "subTitle": "ကျွန်းကို ဆေးကြောခြင်း",
+    "path": "content/chapter-358.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၆၄",
+    "subTitle": "အပြောင်းအလဲအနည်းငယ်",
+    "path": "content/chapter-359.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၆၀",
+    "subTitle": "စူးကျိုးတွင် ကိုယ်ရှိသော်လည်း ကောင်းကင်အောက်ရှိ အရာအားလုံးအပေါ် နှလုံးသားရှိသော လူကောင်းတစ်ဦး",
+    "path": "content/chapter-360.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၆၁",
+    "subTitle": "နန်းတော်ဘဏ္ဍာတိုက်၏ တံခါး",
+    "path": "content/chapter-361.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၆၂",
+    "subTitle": "B4 အခန်းမှ ဓားပြများ",
+    "path": "content/chapter-362.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၆၃",
+    "subTitle": "အစ်ကိုကြီး၊ မတွေ့ရတာကြာပြီ",
+    "path": "content/chapter-363.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၆၄",
+    "subTitle": "အပြောင်းအလဲအသေးစား",
+    "path": "content/chapter-364.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၆၅",
+    "subTitle": "လက်ညှိုးတစ်ချောင်းထောင်ခြင်း",
+    "path": "content/chapter-365.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၆၆",
+    "subTitle": "ကောင်းကင်နတ်သမီး ပန်းများကြဲဖြန့်ခြင်း",
+    "path": "content/chapter-366.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၆၇",
+    "subTitle": "ကောင်းကင်သည် ဗုံသံကြောင့် မသိခြင်းမဟုတ်",
+    "path": "content/chapter-367.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၆၈",
+    "subTitle": "မာနသည် ရွှေထက်မလေးလံ",
+    "path": "content/chapter-368.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၆၉",
+    "subTitle": "ထိန်လင်းသောလသည် ညလမ်းလျှောက်သူများအတွက်မဟုတ်",
+    "path": "content/chapter-369.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၇၀",
+    "subTitle": "ရှမင်ကျီ",
+    "path": "content/chapter-370.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၇၁",
+    "subTitle": "ညှဉ်းပန်းနှိပ်စက်ခန်းနှင့် သေတမ်းစာ",
+    "path": "content/chapter-371.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၇၂",
+    "subTitle": "မိသားစုပိုင်ဆိုင်မှု တရားစွဲဆိုမှု",
+    "path": "content/chapter-372.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၇၃",
+    "subTitle": "အလွန်အမင်းသဟဇာတဖြစ်သော စက္ကူတစ်ရွက်",
+    "path": "content/chapter-373.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၇၄",
+    "subTitle": "ရှင်းဖုန်းစားသောက်ဆိုင်၏ ပေါက်စီ၊ မင်းသားနှင့် တရားရုံးမှ ရှေ့နေ",
+    "path": "content/chapter-374.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၇၅",
+    "subTitle": "အဆောက်အအုံဖွင့်ပွဲနှင့် လူသတ်ပွဲည",
+    "path": "content/chapter-375.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၇၆",
+    "subTitle": "ယွမ်မုန်ကိုသတ်၍ သွေးလဲလှယ်ခြင်း",
+    "path": "content/chapter-376.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၇၇",
+    "subTitle": "ငါးမျှားခြင်း",
+    "path": "content/chapter-377.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၇၈",
+    "subTitle": "မင်မိသားစု၏ ကြေကွဲဖွယ်ရာနောက်ကွယ်",
+    "path": "content/chapter-378.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၇၉",
+    "subTitle": "မည်သူ့ရေတပ်နည်း",
+    "path": "content/chapter-379.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၈၀",
+    "subTitle": "လက်မလွှတ်လိုခြင်း",
+    "path": "content/chapter-380.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၈၁",
+    "subTitle": "နန်းတော်နှင့် နန်းတွင်းရေးရာ",
+    "path": "content/chapter-381.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၈၂",
+    "subTitle": "နန်းတွင်းညီလာခံ၌ အရည်အချင်းရှိသူများကို ဆွဲဆောင်ခြင်း",
+    "path": "content/chapter-382.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၈၃",
+    "subTitle": "ဘဏ္ဍာရေးဝန်ကြီးဌာန၏ ကိစ္စ (အပိုင်း ၁)",
+    "path": "content/chapter-383.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၈၄",
+    "subTitle": "ဘဏ္ဍာရေးဝန်ကြီးဌာန၏ ကိစ္စ (အပိုင်း ၂)",
+    "path": "content/chapter-384.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၈၅",
+    "subTitle": "စုံစမ်းစစ်ဆေးခြင်းနှင့် ပန်းချီဆရာ၏ လက်ရာ",
+    "path": "content/chapter-385.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၈၆",
+    "subTitle": "ဖန့်ဂျန်း၏ ဓား",
+    "path": "content/chapter-386.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၈၇",
+    "subTitle": "ဧရာမနှင်းဘောလုံးကြီးကို ကောက်ယူခြင်း",
+    "path": "content/chapter-387.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၈၈",
+    "subTitle": "ကျိုးကြောင်းဆင်ခြင်မှုနှင့် ကောင်းကင်ဘုံ၏ တန်ခိုးအာဏာ",
+    "path": "content/chapter-388.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၈၉",
+    "subTitle": "နွေဦးရာသီနက်ရှိုင်းသော မြို့တော်",
+    "path": "content/chapter-389.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၉၀",
+    "subTitle": "နွေဦးရာသီ ပေါင်းစည်းမှု",
+    "path": "content/chapter-390.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၉၁",
+    "subTitle": "တောက်ပပြီး ပျော်ရွှင်ဖွယ်ရာ ရှုခင်း",
+    "path": "content/chapter-391.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၉၂",
+    "subTitle": "မြင့်တက်လာသော အထွတ်အထိပ်",
+    "path": "content/chapter-392.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၉၃",
+    "subTitle": "မည်သူက မအံ့ဩဘဲ နေမည်နည်း။",
+    "path": "content/chapter-393.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၉၄",
+    "subTitle": "မြို့ထဲမှ နှင်းဖြူအောက်မှ ရွှံ့နက်",
+    "path": "content/chapter-394.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၉၅",
+    "subTitle": "ကျွန်တော်သည် လူတို့၏နှလုံးသားများကို အထက်မှ စောင့်ကြည့်သည်",
+    "path": "content/chapter-395.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၉၆",
+    "subTitle": "သင် ဥယျာဉ်အပြင်ဘက်တွင် ဒုက္ခရှာသည်၊ ကျွန်တော် ဥယျာဉ်အတွင်း၌ ရယ်မောသည်",
+    "path": "content/chapter-396.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၉၇",
+    "subTitle": "စူးကျိုးသို့ ထူးဆန်းသော ဧည့်သည်တစ်ဦး",
+    "path": "content/chapter-397.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၉၈",
+    "subTitle": "မင်း ငါ့ကို သတ်ရဲသလား။",
+    "path": "content/chapter-398.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၃၉၉",
+    "subTitle": "အဆောက်အအုံကို ဖြိုချရန် ထိုးနှက်ချက်တစ်ခု",
+    "path": "content/chapter-399.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၀၀",
+    "subTitle": "ဟွာဥယျာဉ်၏ အတွေးအခေါ်ဖလှယ်ပွဲ",
+    "path": "content/chapter-400.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၀၁",
+    "subTitle": "ထိုလများအတွင်း",
+    "path": "content/chapter-401.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၀၂",
+    "subTitle": "စောင်ခြုံတစ်ခုက ကောင်းကင်အောက်က ပြည်သူတွေကို ကာကွယ်ခဲ့တယ်",
+    "path": "content/chapter-402.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၀၃",
+    "subTitle": "စွန့်ပစ်ခံကလေးများရဲ့ စုစည်းမှု",
+    "path": "content/chapter-403.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၀၄",
+    "subTitle": "–",
+    "path": "content/chapter-404.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၀၅",
+    "subTitle": "ဤကိစ္စသည် အချစ်ဇာတ်လမ်းနှင့် မသက်ဆိုင်ပါ",
+    "path": "content/chapter-405.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၀၆",
+    "subTitle": "ကလေးဆန်ခြင်း",
+    "path": "content/chapter-406.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၀၇",
+    "subTitle": "တူညီသော ကောင်းကင်",
+    "path": "content/chapter-407.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၀၈",
+    "subTitle": "ဝူကျိုးဦးလေး",
+    "path": "content/chapter-408.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၀၉",
+    "subTitle": "ဇနီးရဲ့မိသားစုနဲ့ ညှိနှိုင်းခြင်း",
+    "path": "content/chapter-409.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၁၀",
+    "subTitle": "ယောက္ခထီးက ဂျွန်ရှန်းအစည်းအဝေးအကြောင်း ရယ်မောရင်း ပြောဆိုခြင်း",
+    "path": "content/chapter-410.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၁၁",
+    "subTitle": "တောင်တန်းမှ ထွက်ခွာခြင်း",
+    "path": "content/chapter-411.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၁၂",
+    "subTitle": "မြို့ထဲသို့ ဝင်ရောက်ခြင်း",
+    "path": "content/chapter-412.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၁၃",
+    "subTitle": "ကျောက်ကျိုးတွင် တစ်စုံတစ်ယောက်က ပွဲတော်ကျင်းပနေသည်",
+    "path": "content/chapter-413.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၁၄",
+    "subTitle": "တစ်စုံတစ်ယောက်က ရေချိုးခန်းထဲမှာ လုပ်ကြံသတ်ဖြတ်နေတယ်",
+    "path": "content/chapter-414.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၁၅",
+    "subTitle": "အိမ်တော်ထဲသို့ တစ်ဖန်ပြန်၍ တဟုန်ထိုးဝင်ရောက်ခြင်း",
+    "path": "content/chapter-415.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၁၆",
+    "subTitle": "ရေတပ်စစ်သူကြီး၏ အိမ်တော်အတွင်းမှ ပြဇာတ်တစ်ပုဒ်",
+    "path": "content/chapter-416.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၁၇",
+    "subTitle": "စာကြည့်ခန်းထဲတွင် နှုတ်မိန့်တော် ကြေညာခြင်း",
+    "path": "content/chapter-417.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၁၈",
+    "subTitle": "လူတွေကို ဆေးခတ်ပေမယ့် မသတ်တဲ့ည",
+    "path": "content/chapter-418.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၁၉",
+    "subTitle": "ဘယ်သူက ဘယ်သူ့လူလဲ",
+    "path": "content/chapter-419.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၂၀",
+    "subTitle": "ကျွန်တော်တို့ရဲ့ ချိန်းဆိုမှုကို ပြုလုပ်ရန် အဝေးမှ လာခဲ့တယ်",
+    "path": "content/chapter-420.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၂၁",
+    "subTitle": "သိုးအုပ်ထဲသို့ ဝင်ရောက်ခြင်း",
+    "path": "content/chapter-421.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၂၂",
+    "subTitle": "သွေးနံ့သယ်ဆောင်လာသော ပင်လယ်လေပြေ",
+    "path": "content/chapter-422.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၂၃",
+    "subTitle": "လုပ်ဆောင်ရန် ကြီးမြတ်သော အရာများ",
+    "path": "content/chapter-423.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၂၄",
+    "subTitle": "အရာရှိများတွင် နှလုံးသားရှိသည်",
+    "path": "content/chapter-424.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၂၅",
+    "subTitle": "ကောင်းကင်ဘုံ၏သားတော်တွင် ရောဂါတစ်ခုရှိသည်",
+    "path": "content/chapter-425.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၂၆",
+    "subTitle": "ပင်လယ်လေပြေပေါ်မှ စာတစ်စောင်",
+    "path": "content/chapter-426.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၂၇",
+    "subTitle": "ဂုဏ်ယူစွာ အိမ်ပြန်ခြင်း (အပိုင်း ၁)",
+    "path": "content/chapter-427.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၂၈",
+    "subTitle": "ဂုဏ်ယူစွာ အိမ်ပြန်ခြင်း (အပိုင်း ၂)",
+    "path": "content/chapter-428.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၂၉",
+    "subTitle": "မြေး၊ ယောက်မ၊ လင်နှင့်မယား၊ အား...",
+    "path": "content/chapter-429.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၃၀",
+    "subTitle": "ကရုဏာနှင့် နက်ရှိုင်းစွာ စီးဆင်းနေသော ငြိမ်သက်သောရေတို့သည်[1] စုံတွဲတစ်တွဲဖြစ်သည်",
+    "path": "content/chapter-430.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၃၁",
+    "subTitle": "ဒီနေ့ တန်ကျိုးမှာ တို့ဟူး မရှိဘူး",
+    "path": "content/chapter-431.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၃၂",
+    "subTitle": "ဆွေမျိုးများအကြောင်းသာ ပြောဆိုခြင်း",
+    "path": "content/chapter-432.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၃၃",
+    "subTitle": "တန်ကျိုးမှ မထွက်ခွာမီ ရက်အနည်းငယ်",
+    "path": "content/chapter-433.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၃၄",
+    "subTitle": "နှင်းကျသောညတွင် အစိမ်းရောင်အလံနှင့် တွေ့ဆုံခြင်း",
+    "path": "content/chapter-434.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၃၅",
+    "subTitle": "ဆယ့်သုံးယောက်မြောက် ဝမ်",
+    "path": "content/chapter-435.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၃၆",
+    "subTitle": "တောင်ကြားတွင် နှင်းများရှိသည်",
+    "path": "content/chapter-436.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၃၇",
+    "subTitle": "နှင်းဖြူ၊ တောနီ၊ ဆံပင်နက်",
+    "path": "content/chapter-437.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၃၈",
+    "subTitle": "ဂျင်းတူး၊ ငါတို့နောက်ဆုံးတွေ့ဆုံပြီးကတည်းက မင်းနေကောင်းရဲ့လား?",
+    "path": "content/chapter-438.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၃၉",
+    "subTitle": "စစ်ရေးရာဗျူရိုရှေ့တွင်၊ ကြီးမားသောဦးခေါင်းတစ်ခု",
+    "path": "content/chapter-439.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၄၀",
+    "subTitle": "အစီရင်ခံစာသည် မည်သည့်နေရာမှ လာသနည်း။",
+    "path": "content/chapter-440.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၄၁",
+    "subTitle": "မုန်ညင်းစိုက်သော အဘိုးအို",
+    "path": "content/chapter-441.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၄၂",
+    "subTitle": "မည်သူက ခုခံနိုင်မည်နည်း။",
+    "path": "content/chapter-442.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၄၃",
+    "subTitle": "ကောင်းကင်အောက်တွင် ခွေးများရှိသည်၊ မည်သူက သူတို့ကို နှင်ထုတ်မည်နည်း။",
+    "path": "content/chapter-443.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၄၄",
+    "subTitle": "ဘုရားကျောင်းတစ်ခုတွင် ရှိနေသောအခါ၊ ရွေးချယ်စရာမရှိပေ",
+    "path": "content/chapter-444.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၄၅",
+    "subTitle": "ဘီးတပ်ကုလားထိုင်အဟောင်း၊ ဘီးတပ်ကုလားထိုင်အသစ်",
+    "path": "content/chapter-445.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၄၆",
+    "subTitle": "လူသုံးယောက်၊ အတွေးသုံးခွ",
+    "path": "content/chapter-446.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၄၇",
+    "subTitle": "ပန်းချီကားထဲမှလူ၊ ပန်းချီကားအပြင်မှအသံ",
+    "path": "content/chapter-447.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၄၈",
+    "subTitle": "အစ်ကိုကြီး၊ ဒုတိယအစ်ကိုကို မဆူပါနဲ့",
+    "path": "content/chapter-448.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၄၉",
+    "subTitle": "ကျွန်တော့်လူတွေ၊ သူတို့လူတွေ",
+    "path": "content/chapter-449.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၅၀",
+    "subTitle": "အဆောက်အအုံအပြင်ဘက်တွင် နှင်းများရှိပြီး အတွေးများသည် မြောက်ဘက်သို့",
+    "path": "content/chapter-450.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၅၁",
+    "subTitle": "ဟင်းချိုချက်ရန် လက်ဆေးခြင်း",
+    "path": "content/chapter-451.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၅၂",
+    "subTitle": "ရည်ရွယ်ချက်များသည် ယခင်အတိုင်းပင်",
+    "path": "content/chapter-452.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၅၃",
+    "subTitle": "တော်ဝင်စာကြည့်ခန်းတွင် အတိတ်ကိုအမှတ်ရခြင်း",
+    "path": "content/chapter-453.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၅၄",
+    "subTitle": "ပေါင်ယွဲ့ပြည့်တန်ဆာခန်းရှေ့တွင် ညီအစ်ကိုများ ပြုံးကြသည်",
+    "path": "content/chapter-454.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၅၅",
+    "subTitle": "ဟုန်မင်စားသောက်ပွဲတွင် သမိုင်းကိုဆွေးနွေးခြင်း (အပိုင်း ၁)",
+    "path": "content/chapter-455.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၅၆",
+    "subTitle": "သမိုင်းကြောင်းကို ဟုန်မင်စားပွဲ၌ ဆွေးနွေးခြင်း (အပိုင်း ၂)",
+    "path": "content/chapter-456.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၅၇",
+    "subTitle": "သမိုင်းကြောင်းကို ဟုန်မင်စားပွဲ၌ ဆွေးနွေးခြင်း (အပိုင်း ၃)",
+    "path": "content/chapter-457.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၅၈",
+    "subTitle": "သမိုင်းကြောင်းကို ဟုန်မင်စားပွဲ၌ ဆွေးနွေးခြင်း (အပိုင်း ၄)",
+    "path": "content/chapter-458.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၅၉",
+    "subTitle": "မြူနှင်း",
+    "path": "content/chapter-459.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၆၀",
+    "subTitle": "အရုဏ်မတက်မီက နှင်းပွင့်များနှင့် ပဲပြားနု",
+    "path": "content/chapter-460.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၆၁",
+    "subTitle": "မဟာနန်းတွင်းညီလာခံ",
+    "path": "content/chapter-461.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၆၂",
+    "subTitle": "တန်ဘိုမြို့စား",
+    "path": "content/chapter-462.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၆၃",
+    "subTitle": "ကောင်းကင်အောက်တွင် ရန်သူများရှိသည်",
+    "path": "content/chapter-463.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၆၄",
+    "subTitle": "မင်းနဲ့မဆိုင်တဲ့ကိစ္စ",
+    "path": "content/chapter-464.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၆၅",
+    "subTitle": "ဘိုးဘွားများထံပြန်လည်ရောက်ရှိခြင်း",
+    "path": "content/chapter-465.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၆၆",
+    "subTitle": "အုပ်စိုးသူနှင့်အရာရှိကြားတွင် မရှင်းလင်းမှုမရှိ",
+    "path": "content/chapter-466.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၆၇",
+    "subTitle": "အတိတ်ကိုသတိရပါ၊ သင်ငယ်စဉ်အခါက",
+    "path": "content/chapter-467.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၆၈",
+    "subTitle": "ဖိနပ်ထဲကအသေးလေး",
+    "path": "content/chapter-468.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၆၉",
+    "subTitle": "နန်းတော်ထဲက... အဲ့ဒီမိုက်မဲတဲ့ကိစ္စတွေ",
+    "path": "content/chapter-469.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၇၀",
+    "subTitle": "မင်းသမီးကြီးကို နောက်တစ်ကြိမ်တွေ့ခြင်း",
+    "path": "content/chapter-470.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၇၁",
+    "subTitle": "နန်းတော်ထဲမှ ညပိုင်း အထီးကျန်ခြင်း",
+    "path": "content/chapter-471.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၇၂",
+    "subTitle": "အိုး မျက်ရည်များ",
+    "path": "content/chapter-472.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၇၃",
+    "subTitle": "ကောက်ရိုး၏ အမြစ်များ ဘယ်မှာလဲ။",
+    "path": "content/chapter-473.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၇၄",
+    "subTitle": "အရာအားလုံးတွင် အစီအစဉ်ရှိသည်",
+    "path": "content/chapter-474.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၇၅",
+    "subTitle": "မမျှော်လင့်ဘဲ ရရှိခဲ့သည်",
+    "path": "content/chapter-475.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၇၆",
+    "subTitle": "ရေခဲကို ကျောက်စိမ်းကဲ့သို့ ချိုးဖျက်ခြင်း",
+    "path": "content/chapter-476.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၇၇",
+    "subTitle": "တော်ဝင်မိသားစုထဲမှ ထူးခြားသူများ",
+    "path": "content/chapter-477.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၇၈",
+    "subTitle": "ရနံ့သည် မခံနိုင်တော့",
+    "path": "content/chapter-478.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၇၉",
+    "subTitle": "မင်းပြီးခဲ့တဲ့နွေရာသီက ဘာလုပ်ခဲ့လဲဆိုတာ ငါသိတယ်",
+    "path": "content/chapter-479.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၈၀",
+    "subTitle": "မိန်းမစိုးများလည်း ကမ္ဘာကြီးကို ပြောင်းလဲနိုင်သည်",
+    "path": "content/chapter-480.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၈၁",
+    "subTitle": "ဖန့်စန်းပေါင်၏ အစ",
+    "path": "content/chapter-481.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၈၂",
+    "subTitle": "မိဘအဖြစ်",
+    "path": "content/chapter-482.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၈၃",
+    "subTitle": "တတိယမျိုးဆက်",
+    "path": "content/chapter-483.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၈၄",
+    "subTitle": "သဘောထားက အရာအားလုံးကို ဆုံးဖြတ်တယ်",
+    "path": "content/chapter-484.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၈၅",
+    "subTitle": "ကျောက်ရှန်းငွေတိုက်",
+    "path": "content/chapter-485.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၈၆",
+    "subTitle": "နန်းတွင်းအစေခံမိန်းကလေးတစ်ဦး၏ သေဆုံးခြင်း",
+    "path": "content/chapter-486.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၈၇",
+    "subTitle": "ကျောက်တုံးသယ်ဆောင်လာသော ကြီးမားသည့် အစောင့်အရှောက်ပါ ရထားလုံးကို မည်သူက တားဆီးနိုင်မည်နည်း။",
+    "path": "content/chapter-487.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၈၈",
+    "subTitle": "ဤသည်မှာ ပူးပေါင်းကြံစည်မှုတစ်ခုဖြစ်သည်",
+    "path": "content/chapter-488.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၈၉",
+    "subTitle": "အဓိကပုဂ္ဂိုလ်များ",
+    "path": "content/chapter-489.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၉၀",
+    "subTitle": "မင်ဥယျာဉ်ထဲမှ ရယ်မောသံ",
+    "path": "content/chapter-490.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၉၁",
+    "subTitle": "မျိုးဆက်များကြားမှ တောင်ပေါ်ဝံပုလွေ (အပိုင်း ၁)",
+    "path": "content/chapter-491.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၉၂",
+    "subTitle": "မျိုးဆက်များကြားမှ တောင်ပေါ်ဝံပုလွေ (အပိုင်း ၂)",
+    "path": "content/chapter-492.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၉၃",
+    "subTitle": "နန်းတော်ထဲမှ ညသုံးည",
+    "path": "content/chapter-493.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၉၄",
+    "subTitle": "နာရီဝက်",
+    "path": "content/chapter-494.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၉၅",
+    "subTitle": "တော်ဝင်နန်းတော်ထဲမှ သွေးနှင့် မြေဝါ",
+    "path": "content/chapter-495.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၉၆",
+    "subTitle": "မိုးကြိုးမုန်တိုင်း (အပိုင်း ၁)",
+    "path": "content/chapter-496.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၉၇",
+    "subTitle": "မိုးကြိုးမုန်တိုင်း (အပိုင်း ၂)",
+    "path": "content/chapter-497.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၉၈",
+    "subTitle": "အထီးကျန် [၁]",
+    "path": "content/chapter-498.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၄၉၉",
+    "subTitle": "အကျဉ်းချခြင်း",
+    "path": "content/chapter-499.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၀၀",
+    "subTitle": "စီးဆင်းခြင်း",
+    "path": "content/chapter-500.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၀၁",
+    "subTitle": "သက်ပြင်းချသံ",
+    "path": "content/chapter-501.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၀၂",
+    "subTitle": "တွင်း",
+    "path": "content/chapter-502.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၀၃",
+    "subTitle": "မျိုးဆက်သစ် ထူးဆန်းသော သတ္တဝါငယ်များ",
+    "path": "content/chapter-503.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၀၄",
+    "subTitle": "တောအုပ်ထဲမှ ဖန့်စံအိမ်တော်၏ သခင်မလေးနှင့် စာများ",
+    "path": "content/chapter-504.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၀၅",
+    "subTitle": "အကယ်၍ သင်က ကျွန်ုပ်ကို ထောက်ခံမည်ဆိုလျှင်",
+    "path": "content/chapter-505.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၀၆",
+    "subTitle": "အရာအားလုံး ပြီးဆုံးသောအခါ",
+    "path": "content/chapter-506.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၀၇",
+    "subTitle": "ပိုတိတ်ဆိတ်လေ ပိုပျော်ရွှင်လေ",
+    "path": "content/chapter-507.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၀၈",
+    "subTitle": "လက်ဖက်ရည်၊ အရက်၊ စက္ကူ၊ ရုပ်ပုံလွှာကြီး",
+    "path": "content/chapter-508.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၀၉",
+    "subTitle": "အဓိပ္ပာယ်မဲ့သော စကားလုံးများ",
+    "path": "content/chapter-509.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၁၀",
+    "subTitle": "ဝမ်းနည်းဖွယ် မျက်ရည်များ",
+    "path": "content/chapter-510.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၁၁",
+    "subTitle": "နိမ့်ကျသော ဘုရင်တစ်ပါး (အပိုင်း ၁)",
+    "path": "content/chapter-511.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၁၂",
+    "subTitle": "နိမ့်ကျသော ဘုရင်တစ်ပါး (အပိုင်း ၂)",
+    "path": "content/chapter-512.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၁၃",
+    "subTitle": "ဘုရင်မင်းမြတ် အရှေ့ပင်လယ်သို့ ရောက်ရှိခြင်း",
+    "path": "content/chapter-513.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၁၄",
+    "subTitle": "ချောက်ကမ်းပါးမှ ပေါက်ဖွားလာသော လှိုင်းများ",
+    "path": "content/chapter-514.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၁၅",
+    "subTitle": "တောင်မြင့်များမှ တိမ်ဖြူများ တက်လာခြင်း",
+    "path": "content/chapter-515.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၁၆",
+    "subTitle": "ဘုရားကျောင်းထဲမှ လူများ",
+    "path": "content/chapter-516.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၁၇",
+    "subTitle": "နှလုံးသားမှ စကားလုံးများ",
+    "path": "content/chapter-517.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၁၈",
+    "subTitle": "လခြမ်းကွေးက တုန်းတောင်ကို ထွန်းလင်းစေခြင်း",
+    "path": "content/chapter-518.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၁၉",
+    "subTitle": "ညဘက်တွင် လေးရှည်များက တောင်ကို ပိတ်ဆို့ခြင်း",
+    "path": "content/chapter-519.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၂၀",
+    "subTitle": "လကိုဖုံးလွှမ်းခြင်း",
+    "path": "content/chapter-520.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၂၁",
+    "subTitle": "လှိုင်းထန်ပင်လယ်ထဲ ခိုလှုံခြင်း",
+    "path": "content/chapter-521.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၂၂",
+    "subTitle": "သင်္ဘောပေါ်က နှလုံးသား",
+    "path": "content/chapter-522.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၂၃",
+    "subTitle": "လိုက်လံဖမ်းဆီးခြင်း (အပိုင်း ၁)",
+    "path": "content/chapter-523.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၂၄",
+    "subTitle": "လိုက်လံဖမ်းဆီးခြင်း (အပိုင်း ၂)",
+    "path": "content/chapter-524.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၂၅",
+    "subTitle": "လိုက်လံဖမ်းဆီးခြင်း (အပိုင်း ၃)",
+    "path": "content/chapter-525.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၂၆",
+    "subTitle": "အသက်ရှုမှားလောက်သော ပစ်ခတ်မှု",
+    "path": "content/chapter-526.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၂၇",
+    "subTitle": "ဝမ်းနည်းစရာ မြားငယ်လေး",
+    "path": "content/chapter-527.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၂၈",
+    "subTitle": "မဟာသိုင်းပညာရှင်ကြီး",
+    "path": "content/chapter-528.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၂၉",
+    "subTitle": "သာမန်လောက",
+    "path": "content/chapter-529.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၃၀",
+    "subTitle": "တုန်းတောင်ထိပ်မှ တွေ့ဆုံခြင်း",
+    "path": "content/chapter-530.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၃၁",
+    "subTitle": "ခရီးရှည်ကြီးတစ်ခု",
+    "path": "content/chapter-531.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၃၂",
+    "subTitle": "ကျင်းတူးမြို့ကျိုင်းကောင်တို့၏ တေးသံ",
+    "path": "content/chapter-532.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၃၃",
+    "subTitle": "လူတိုင်း၏ နှလုံးသားတွင် အရေပြားတစ်လွှာ ရှိသည်",
+    "path": "content/chapter-533.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၃၄",
+    "subTitle": "ဆောင်းဦးအစ",
+    "path": "content/chapter-534.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၃၅",
+    "subTitle": "ကျေးဇူးပြု၍ ဆရာ၏ ကိုယ်ကျင့်တရားကို ငှားရမ်းပါ",
+    "path": "content/chapter-535.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၃၆",
+    "subTitle": "ဝမ်းနည်းပူဆွေးသံ",
+    "path": "content/chapter-536.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၃၇",
+    "subTitle": "သူ အမှန်တကယ် အမြဲတမ်း ဒီမှာ ရှိနေခဲ့သည်",
+    "path": "content/chapter-537.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၃၈",
+    "subTitle": "ယန်ချုံးလမ်းကြားထဲက လျှို့ဝှက်တွေ့ဆုံမှု",
+    "path": "content/chapter-538.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၃၉",
+    "subTitle": "ဘယ်သူက ရိုးရှင်းတဲ့ဘဝနဲ့ နေနိုင်မှာလဲ",
+    "path": "content/chapter-539.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၄၀",
+    "subTitle": "ကလေးတစ်ယောက် ခြံစည်းရိုးကို ခုန်ကျော်သည်",
+    "path": "content/chapter-540.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၄၁",
+    "subTitle": "ဘယ်သူ့အိမ်တော်လဲ",
+    "path": "content/chapter-541.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၄၂",
+    "subTitle": "သတ်ဖြတ်သည့်အခါ ဓားကို ဘယ်တော့မှမပြ",
+    "path": "content/chapter-542.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၄၃",
+    "subTitle": "ဖိနပ်ထဲမှ ဓားမြှောင်ကို ပထမဆုံးအကြိမ် ဆွဲထုတ်ခြင်း",
+    "path": "content/chapter-543.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၄၄",
+    "subTitle": "ထိုည",
+    "path": "content/chapter-544.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၄၅",
+    "subTitle": "လအောက်တွင် တံခါးကို အေးအေးဆေးဆေးတွန်းဖွင့်ခြင်းနှင့် ပေါက်ကွဲဝင်ရောက်ခြင်း",
+    "path": "content/chapter-545.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၄၆",
+    "subTitle": "ဆုံးဖြတ်ချက်ခိုင်မာမှုကြောင့် ရဲစွမ်းသတ္တိရှိခြင်း",
+    "path": "content/chapter-546.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၄၇",
+    "subTitle": "တော်ဝင်နန်းတော် အတွင်းအပြင်မှ သတ်ဖြတ်သံများ",
+    "path": "content/chapter-547.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၄၈",
+    "subTitle": "မြားများကို ရေတွက်ခြင်း",
+    "path": "content/chapter-548.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၄၉",
+    "subTitle": "ချစ်ခင်တတ်သော မိန်းမစိုး၊ ရက်စက်သော မြား",
+    "path": "content/chapter-549.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၅၀",
+    "subTitle": "ရက်စက်ခြင်း (အပိုင်း ၁)",
+    "path": "content/chapter-550.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၅၁",
+    "subTitle": "ရက်စက်ခြင်း (အပိုင်း ၂)",
+    "path": "content/chapter-551.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၅၂",
+    "subTitle": "ဘေးဒုက္ခမှ ထွက်ပြေးသော ချင်းပင်းပင်း၏ အရိပ်နှင့် ကလေးများ",
+    "path": "content/chapter-552.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၅၃",
+    "subTitle": "သူ့ဆေးနှင့် သူ့ကိုပြန်ကုခြင်း",
+    "path": "content/chapter-553.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၅၄",
+    "subTitle": "ကျိန့်ယန်တံခါးရှေ့မှ တိုက်ခိုက်မှု",
+    "path": "content/chapter-554.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၅၅",
+    "subTitle": "ဂုဏ်ကျက်သရေ",
+    "path": "content/chapter-555.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၅၆",
+    "subTitle": "အလံကိုခိုးခြင်း၊ အာဏာကိုခိုးခြင်း၊ နှလုံးသားကိုခိုးခြင်း",
+    "path": "content/chapter-556.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၅၇",
+    "subTitle": "နန်းတော်တံတိုင်းများပေါ်တွင် ရုပ်တုသုံးခုကို ထားခြင်း",
+    "path": "content/chapter-557.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၅၈",
+    "subTitle": "မြို့ထဲတွင် ထိုင်နေသော်လည်း ငြိမ်းချမ်းမှုမရှိ",
+    "path": "content/chapter-558.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၅၉",
+    "subTitle": "မီးပင်လယ်ထဲတွင် ဘုရင်၏နှလုံးသားကို မည်သူက ဖွဲ့စည်းခဲ့သနည်း",
+    "path": "content/chapter-559.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၆၀",
+    "subTitle": "မြင်းသည်တော်အနက်များကို နိဒါန်းအဖြစ်အသုံးပြုခြင်း",
+    "path": "content/chapter-560.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၆၁",
+    "subTitle": "ဂျင်ဂေးက ချင်ကို လုပ်ကြံခြင်း",
+    "path": "content/chapter-561.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၆၂",
+    "subTitle": "ချင်ကို သတ်ဖြတ်ခြင်း",
+    "path": "content/chapter-562.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၆၃",
+    "subTitle": "တစ်ခဏအတွင်းက သူလျှို",
+    "path": "content/chapter-563.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၆၄",
+    "subTitle": "တင်းကျိုးစစ်တပ်၏ အမိန့်",
+    "path": "content/chapter-564.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၆၅",
+    "subTitle": "ထိုင်ပင်းစံအိမ်",
+    "path": "content/chapter-565.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၆၆",
+    "subTitle": "ပန်းတစ်ပင်၊ ဂူချင်းသံစဉ်တစ်ထောင်၊ လူတစ်ယောက်",
+    "path": "content/chapter-566.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၆၇",
+    "subTitle": "တိမ်တိုက်တို့သည် လက်အိတ်မှ အမှတ်မထင် ထွက်ခွာ၊ ဓားတွင် ရည်ရွယ်ချက်ရှိသော်လည်း ပြန်မလာ",
+    "path": "content/chapter-567.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၆၈",
+    "subTitle": "ဘုရင်မင်းမြတ်၏ လမ်းစဉ်",
+    "path": "content/chapter-568.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၆၉",
+    "subTitle": "ရေတံခွန်ကဲ့သို့ ပင်လယ်ထဲသို့ စီးဝင်ခြင်း၊ တောင်ကဲ့သို့ နေထွက်ခြင်း",
+    "path": "content/chapter-569.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၇၀",
+    "subTitle": "တုန်းတောင်၏ အကျိုးဆက်များ",
+    "path": "content/chapter-570.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၇၁",
+    "subTitle": "စာရွက် ရေကန်ထဲဝင်သော် ငါးတို့လှုပ်ရှား၊ လက်အိတ်ပွင့်သော် လူတို့သေဆုံး",
+    "path": "content/chapter-571.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၇၂",
+    "subTitle": "ပြာလဲ့ဖြူလွင် စကားလုံးများ",
+    "path": "content/chapter-572.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၇၃",
+    "subTitle": "ဂုဏ်သိက္ခာရှိသော သေခြင်းတရား",
+    "path": "content/chapter-573.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၇၄",
+    "subTitle": "တဖြည်းဖြည်း မှေးမှိန်လာသော ဂျင်းအိုကြီး",
+    "path": "content/chapter-574.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၇၅",
+    "subTitle": "ဒေါသထွက်နေသော စပျစ်သီး",
+    "path": "content/chapter-575.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၇၆",
+    "subTitle": "ပြောင်းဖူးခင်းထဲမှ ကြည့်ရှုသူ",
+    "path": "content/chapter-576.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၇၇",
+    "subTitle": "ဖခင်နှင့်သားတော်၏ ကျမ်းလိပ်၏ ဒုတိယတစ်ဝက်",
+    "path": "content/chapter-577.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၇၈",
+    "subTitle": "ခေါင်းလောင်းသံကို ရှင်းလင်းစွာ ကြားရခြင်း",
+    "path": "content/chapter-578.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၇၉",
+    "subTitle": "နှစ်တစ်ရာ၏ အထီးကျန်ခြင်း",
+    "path": "content/chapter-579.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၈၀",
+    "subTitle": "ကိုယ့်ရဲ့ အသည်းကျော်",
+    "path": "content/chapter-580.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၈၁",
+    "subTitle": "တဖြည်းဖြည်း ညင်သာလာခြင်း",
+    "path": "content/chapter-581.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၈၂",
+    "subTitle": "ဧကရာဇ်၏ ရည်ရွယ်ချက်များ",
+    "path": "content/chapter-582.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၈၃",
+    "subTitle": "ရဲဘော်တစ်ဦးကို နှုတ်ဆက်ခြင်း",
+    "path": "content/chapter-583.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၈၄",
+    "subTitle": "စိမ်းလန်းသောတောင်တန်းများ ဖုံးကွယ်မထားနိုင်",
+    "path": "content/chapter-584.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၈၅",
+    "subTitle": "မချမ်းမြေ့ဖွယ် ဆောင်းရာသီ",
+    "path": "content/chapter-585.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၈၆",
+    "subTitle": "အချိန်နှင့်အမျှ တရားခွင်",
+    "path": "content/chapter-586.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၈၇",
+    "subTitle": "တင်းကျိုးမှ ဟူကော့",
+    "path": "content/chapter-587.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၈၈",
+    "subTitle": "စစ်သူကြီးကြီး၏ အိမ်တော်",
+    "path": "content/chapter-588.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၈၉",
+    "subTitle": "ပြင်းရှသောအရက်၊ နွေးထွေးသောရင်",
+    "path": "content/chapter-589.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၉၀",
+    "subTitle": "ကျိုးသွားသောဓား",
+    "path": "content/chapter-590.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၉၁",
+    "subTitle": "နယ်စပ်မြို့မှ မိတ်ဆွေဟောင်း",
+    "path": "content/chapter-591.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၉၂",
+    "subTitle": "ဘုရင့်စခန်းမှ လူငယ်",
+    "path": "content/chapter-592.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၉၃",
+    "subTitle": "အကြီးအကဲ",
+    "path": "content/chapter-593.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၉၄",
+    "subTitle": "နှစ်နှစ်",
+    "path": "content/chapter-594.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၉၅",
+    "subTitle": "ကန်စပ်နံဘေးမှ ဟိုင်ထန်ပန်း",
+    "path": "content/chapter-595.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၉၆",
+    "subTitle": "သုံးရက်",
+    "path": "content/chapter-596.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၉၇",
+    "subTitle": "နှလုံးသားတို့၏ တိုက်ပွဲအပြီး",
+    "path": "content/chapter-597.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၉၈",
+    "subTitle": "ဆောင်းဦးမြက်ခင်းပြင်၊ နေထွက်ချိန်နှင့် အနက်ရောင်မြင်းစီးသူရဲများ",
+    "path": "content/chapter-598.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၅၉၉",
+    "subTitle": "ပြန်လာခြင်း",
+    "path": "content/chapter-599.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၀၀",
+    "subTitle": "ပြတင်းပေါက်အပြင်ဘက်",
+    "path": "content/chapter-600.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၀၁",
+    "subTitle": "ရှုခင်းအားလုံးကို ထွင်းဖောက်မြင်ခြင်း",
+    "path": "content/chapter-601.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၀၂",
+    "subTitle": "မြို့တံခါးစောင့်မျှော်စင်ပေါ်မှ အကြည့်များ၊ မြို့တော်သို့ ပြန်လာခြင်း",
+    "path": "content/chapter-602.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၀၃",
+    "subTitle": "မြို့တံခါးဝမှ အဖြစ်အပျက်ဟောင်းများ၊ သို့သော် လူဟောင်းများတော့ မဟုတ်",
+    "path": "content/chapter-603.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၀၄",
+    "subTitle": "ဝမ်မိသားစုမှ သခင်မလေး",
+    "path": "content/chapter-604.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၀၅",
+    "subTitle": "လက်ခံခြင်း သို့မဟုတ် လက်မခံခြင်း၊ ဤသည်မှာ မေးခွန်းမဟုတ်",
+    "path": "content/chapter-605.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၀၆",
+    "subTitle": "အကြံအစည်များ",
+    "path": "content/chapter-606.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၀၇",
+    "subTitle": "ကောင်းကင်ဘုံ၏ မိုးကြိုးသံနှင့် ဖန့်ရှန့်၏ ပျောက်ဆုံးနေသော ကျောက်ပြား",
+    "path": "content/chapter-607.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၀၈",
+    "subTitle": "အတူတူပင်ဖြစ်သော လရောင်",
+    "path": "content/chapter-608.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၀၉",
+    "subTitle": "ဆရာဝန်၏ ရည်ရွယ်ချက်ကား အဘယ်နည်း",
+    "path": "content/chapter-609.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၁၀",
+    "subTitle": "ညဘက်တွင် သီချင်းဆိုခြင်း",
+    "path": "content/chapter-610.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၁၁",
+    "subTitle": "ဌာနနှစ်ခုကြားက ချောက်နက်",
+    "path": "content/chapter-611.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၁၂",
+    "subTitle": "အရှေ့လေပြေ",
+    "path": "content/chapter-612.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၁၃",
+    "subTitle": "ဆောင်းဦးပေါက်တိုင် ပြဇာတ်တစ်ပုဒ်",
+    "path": "content/chapter-613.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၁၄",
+    "subTitle": "နွေဦးရောက်ရင် ကျွန်တော်သွားမယ်",
+    "path": "content/chapter-614.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၁၅",
+    "subTitle": "လမ်းကြောင်းတစ်ခုတည်း",
+    "path": "content/chapter-615.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၁၆",
+    "subTitle": "အေးအေးဆေးဆေး ဆီးသီးချွေခြင်း",
+    "path": "content/chapter-616.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၁၇",
+    "subTitle": "အရိပ်များ ငါ့ဘေးမှာ လိုက်ပါလို့",
+    "path": "content/chapter-617.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၁၈",
+    "subTitle": "ဘဝမှာ ဘယ်နေရာမှာမဆို ပြန်လည်ဆုံတွေ့နိုင်တယ်",
+    "path": "content/chapter-618.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၁၉",
+    "subTitle": "တောင်ပေါ်စံအိမ်မှ အမျိုးသမီးနှင့် ဧကရာဇ်တစ်ပါး၏ နှလုံးသား",
+    "path": "content/chapter-619.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၂၀",
+    "subTitle": "မိုးမခပင်ကိုချိုး၊ တဲအတွင်းသို့ဝင်",
+    "path": "content/chapter-620.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၂၁",
+    "subTitle": "တဲအတွင်းမှ ဧည့်သည်များ",
+    "path": "content/chapter-621.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၂၂",
+    "subTitle": "ဆည်းဆာချိန်မှ လျှို့ဝှက်ချက်",
+    "path": "content/chapter-622.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၂၃",
+    "subTitle": "နန်းတော်ရှေ့မှ ပျော်ရွှင်မှုအစစ်",
+    "path": "content/chapter-623.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၂၅",
+    "subTitle": "ဆံပင်ဖြီးခြင်း",
+    "path": "content/chapter-624.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၂၅",
+    "subTitle": "ဆံပင်ဖြီးခြင်း",
+    "path": "content/chapter-625.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၂၆",
+    "subTitle": "ဓားတဲအတွင်းမှ တွင်းနက်",
+    "path": "content/chapter-626.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၂၇",
+    "subTitle": "အဘိုးအို",
+    "path": "content/chapter-627.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၂၈",
+    "subTitle": "သစ်ပင်ကြီးတစ်ပင်",
+    "path": "content/chapter-628.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၂၉",
+    "subTitle": "မျက်စိတစ်မှိတ်အတွင်း",
+    "path": "content/chapter-629.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၃၀",
+    "subTitle": "သုံးဦးအတူသွားလျှင်",
+    "path": "content/chapter-630.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၃၁",
+    "subTitle": "ဓားလေးချက်ထုတ်ပြီးနောက် ဗလာဖြစ်သွားသော နှလုံးသား",
+    "path": "content/chapter-631.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၃၂",
+    "subTitle": "သူတော်စင်များသာ အသုံးပြုသင့်သည်",
+    "path": "content/chapter-632.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၃၃",
+    "subTitle": "အဆိပ်ခတ်ခံရခြင်း",
+    "path": "content/chapter-633.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၃၄",
+    "subTitle": "ကျွန်ုပ်တို့အားလုံးသည် မတူညီသောအရောင်များရှိသည့် ပင်လယ်များဖြစ်ကြသည်",
+    "path": "content/chapter-634.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၃၅",
+    "subTitle": "ဆုတ်ခွာသွားသော လှိုင်းများ",
+    "path": "content/chapter-635.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၃၆",
+    "subTitle": "ရာထူးတောင်းရန် မြို့တော်သို့ ပြန်လာခြင်း",
+    "path": "content/chapter-636.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၃၇",
+    "subTitle": "လက်ထပ်ထိမ်းမြားခြင်းကို ဆွေးနွေးခြင်း၊ ကုသိုလ်ကို ဆွေးနွေးခြင်း",
+    "path": "content/chapter-637.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၃၈",
+    "subTitle": "ပန်းခြံကိုသိမ်းပိုက်၊ အာဏာကိုဆုပ်ကိုင်",
+    "path": "content/chapter-638.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၃၉",
+    "subTitle": "တစ်ညတည်းနှင့် ကြီးပြင်းလာခြင်း",
+    "path": "content/chapter-639.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၄၀",
+    "subTitle": "ခြံဝင်းဘေးတွင် ခါးသီးစွာ တွေးတောခြင်း",
+    "path": "content/chapter-640.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၄၁",
+    "subTitle": "သင်္ချိုင်းများ",
+    "path": "content/chapter-641.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၄၂",
+    "subTitle": "သီးခြားစိန်ခေါ်မှုများ",
+    "path": "content/chapter-642.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၄၃",
+    "subTitle": "လက်ဖက်ရည်ကြမ်းတစ်ခွက်မှ အခြေအနေကို သိမြင်ခြင်း",
+    "path": "content/chapter-643.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၄၄",
+    "subTitle": "ပွဲတော်အတွင်းမှ ဟန်ဆောင်ထကြွမှု",
+    "path": "content/chapter-644.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၄၅",
+    "subTitle": "တော်ဝင်ပညာသင်ကျောင်းမှ အနက်ရောင်ထီးနှင့် နှာတံပေါ်မှ အလင်းရောင်",
+    "path": "content/chapter-645.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၄၆",
+    "subTitle": "နွေဦးဥယျာဉ်ထဲမှ ပရမ်းပတာ",
+    "path": "content/chapter-646.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၄၇",
+    "subTitle": "အဖွင့်တစ်ခု",
+    "path": "content/chapter-647.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၄၈",
+    "subTitle": "အမှားလုပ်ခြင်း",
+    "path": "content/chapter-648.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၄၉",
+    "subTitle": "ငါးအူ",
+    "path": "content/chapter-649.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၅၀",
+    "subTitle": "လယ်သမား၊ တောရွာအိမ်ကြီး၊ လယ်ကွင်းအချို့",
+    "path": "content/chapter-650.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၅၁",
+    "subTitle": "ဆယ်အိမ်စုရွာ",
+    "path": "content/chapter-651.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၅၂",
+    "subTitle": "ကောင်းကင်ဘုံ၏ လမ်းစဉ်",
+    "path": "content/chapter-652.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၅၃",
+    "subTitle": "လောကထဲသို့ ကြယ်ရောင်များ ယိုဖိတ်ကျခြင်း",
+    "path": "content/chapter-653.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၅၄",
+    "subTitle": "စိတ်ဓာတ်စွမ်းအားသည် ဘုရင်မင်းမြတ်၏ လမ်းစဉ်ဖြစ်သည်",
+    "path": "content/chapter-654.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၅၅",
+    "subTitle": "ကျောင်းတော်၊ ပုရွက်ဆိတ်၊ မှတ်စုစာအုပ်",
+    "path": "content/chapter-655.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၅၆",
+    "subTitle": "မိုးရေထဲမှာ ကျွန်တော် ပင်လယ်ကနေ လာခဲ့တယ် (အပိုင်း ၁)",
+    "path": "content/chapter-656.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၅၇",
+    "subTitle": "မိုးရေထဲမှာ ကျွန်တော် ပင်လယ်ကနေ လာခဲ့တယ် (အပိုင်း ၂)",
+    "path": "content/chapter-657.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၅၈",
+    "subTitle": "မိုးရေထဲမှာ ကျွန်တော် ပင်လယ်ကနေ လာခဲ့တယ် (အပိုင်း ၃)",
+    "path": "content/chapter-658.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၅၉",
+    "subTitle": "လေထဲတွင် အရာဝတ္ထုတစ်ခု၊ လက်တစ်ဖက်တွင် ဓားများ",
+    "path": "content/chapter-659.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၆၀",
+    "subTitle": "ကမ္ဘာ့ငွေကြေးဈေးကွက်များကို သတ်ပစ်ရမည်!",
+    "path": "content/chapter-660.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၆၁",
+    "subTitle": "တဲတော်ဖွင့်ပွဲ",
+    "path": "content/chapter-661.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၆၂",
+    "subTitle": "စိတ်ထဲရှိသည့်အတိုင်း ပြုမူသင့်သည်",
+    "path": "content/chapter-662.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၆၃",
+    "subTitle": "ရိုးရှင်းသော အောင်နိုင်ခြင်း",
+    "path": "content/chapter-663.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၆၄",
+    "subTitle": "ပုန်ကန်မှုကို နှိမ်နင်းလိုသော ဆန္ဒ",
+    "path": "content/chapter-664.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၆၅",
+    "subTitle": "ပြန်လမ်းသည် သွေးစွန်းနေသည်",
+    "path": "content/chapter-665.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၆၆",
+    "subTitle": "လေထန်လာခြင်း",
+    "path": "content/chapter-666.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၆၇",
+    "subTitle": "ဇနီး",
+    "path": "content/chapter-667.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၆၈",
+    "subTitle": "လူတိုင်း ကျင်းတူးမှ လာကြသည်",
+    "path": "content/chapter-668.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၆၉",
+    "subTitle": "အရာအားလုံးကို စွန့်စားခြင်း",
+    "path": "content/chapter-669.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၇၀",
+    "subTitle": "ကောင်းကင်ဘုံမှ ဖန်တီးသော တိုက်ဆိုင်မှု",
+    "path": "content/chapter-670.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၇၁",
+    "subTitle": "ငါအဲဒီခွေးအိုကြီးကို အသက်ရှင်စေချင်တယ်",
+    "path": "content/chapter-671.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၇၂",
+    "subTitle": "လူကြီးလူကောင်း၊ သူငယ်ချင်း၊ ထွက်ပြေးခြင်း",
+    "path": "content/chapter-672.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၇၃",
+    "subTitle": "ညလေထဲမှ ဘီးတပ်ကုလားထိုင်",
+    "path": "content/chapter-673.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၇၄",
+    "subTitle": "လူနှစ်ဦးကြားမှ တိုက်ပွဲ၏ အစ",
+    "path": "content/chapter-674.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၇၅",
+    "subTitle": "လှည်းတစ်စီး မြို့ထဲသို့ တစ်ယောက်တည်း ဝင်ရောက်ခြင်း",
+    "path": "content/chapter-675.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၇၆",
+    "subTitle": "ဆယ်စုနှစ်များစွာက အတိတ်ဖြစ်ရပ်များနှင့် ဒေါသ",
+    "path": "content/chapter-676.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၇၇",
+    "subTitle": "ဒါဆို ဘာဖြစ်လဲ",
+    "path": "content/chapter-677.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၇၈",
+    "subTitle": "ဆုတ်ခွာခြင်းမရှိဘဲ ကောင်းကင်နှင့်မြေကြီးကို စုံစမ်းစစ်ဆေးခြင်း",
+    "path": "content/chapter-678.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၇၉",
+    "subTitle": "ချင်းပင်းပင်း၏ လက်စားချေခြင်း",
+    "path": "content/chapter-679.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၈၀",
+    "subTitle": "တော်ဝင်စာကြည့်ခန်းအတွင်းမှ ဝါးပန်းပွင့်ခြင်း",
+    "path": "content/chapter-680.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၈၁",
+    "subTitle": "စုံစမ်းစစ်ဆေးရေးကောင်စီ၏ လက်နက်ချခြင်းကို ညွှန်ပြသည့် လက်တစ်ချောင်း",
+    "path": "content/chapter-681.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၈၂",
+    "subTitle": "ကျင်းတူးမြို့မှ ပရမ်းပတာအခြေအနေနှင့် ယိမ်းနွဲ့နေသော ဖယောင်းတိုင်နီ",
+    "path": "content/chapter-682.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၈၃",
+    "subTitle": "သူရဲကောင်းများကို ကြည့်ကာ ရယ်မောခြင်းသည် သာမန်မဟုတ် (အပိုင်း ၁)",
+    "path": "content/chapter-683.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၈၄",
+    "subTitle": "သူရဲကောင်းများကို ကြည့်ကာ ရယ်မောခြင်းသည် သာမန်မဟုတ် (အပိုင်း ၂)",
+    "path": "content/chapter-684.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၈၅",
+    "subTitle": "သူရဲကောင်းများကို ကြည့်ကာ ရယ်မောခြင်းသည် သာမန်မဟုတ် (အပိုင်း ၃)",
+    "path": "content/chapter-685.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၈၆",
+    "subTitle": "မိုးရေထဲတွင် ချင်းပင်းပင်းကို နှုတ်ဆက်ထွက်ခွာစေခြင်း",
+    "path": "content/chapter-686.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၈၇",
+    "subTitle": "–",
+    "path": "content/chapter-687.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၈၈",
+    "subTitle": "ဖန့်အိမ်တော်မှ ရှည်လျားသော အိပ်စက်ခြင်းမှ နိုးထရန် မလိုလားခြင်း",
+    "path": "content/chapter-688.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၈၉",
+    "subTitle": "အိပ်မက်ထဲမှ နှင်းတောင်၊ ဇလုံထဲမှ သွေးရေ",
+    "path": "content/chapter-689.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၉၀",
+    "subTitle": "အရာရှိတစ်ဦး၏အဖြစ်မှ လက်ဆေးဖယ်ခွာခြင်း",
+    "path": "content/chapter-690.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၉၁",
+    "subTitle": "ခုနစ်ရက်",
+    "path": "content/chapter-691.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၉၂",
+    "subTitle": "ချီနီယန်တပ်ဖွဲ့ဝင်များ မိမိတို့၏လမ်းခရီးကို စတင်ထွက်ခွာကြခြင်း",
+    "path": "content/chapter-692.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၉၃",
+    "subTitle": "ချင်းကျောင်းတော်မှ မိုး",
+    "path": "content/chapter-693.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၉၄",
+    "subTitle": "ကျောင်းတော်၏အမည်၊ လူ၏အရိပ်",
+    "path": "content/chapter-694.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၉၅",
+    "subTitle": "အသင့်ပြင်ဆင်ခြင်း",
+    "path": "content/chapter-695.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၉၆",
+    "subTitle": "နန်းတော်ထဲမှ ဖန့်မိသားစု၏ သခင်မလေး",
+    "path": "content/chapter-696.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၉၇",
+    "subTitle": "အရှင်နှင့်အမတ် တွေ့ဆုံသောအခါ ငြိမ်းချမ်းမှု ရှိနိုင်ပါမည်လော",
+    "path": "content/chapter-697.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၉၈",
+    "subTitle": "ဟုတ်ကဲ့ပါ အရှင်မင်းကြီး",
+    "path": "content/chapter-698.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၆၉၉",
+    "subTitle": "လက်ဆောင်လေးတစ်ခု",
+    "path": "content/chapter-699.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၀၀",
+    "subTitle": "ကြည့်စမ်း၊ အပေါ်မှာ အရမ်းလှတယ်",
+    "path": "content/chapter-700.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၀၁",
+    "subTitle": "ဂျင်းဒူးမြို့မှ အေးအေးလူလူနေသူ",
+    "path": "content/chapter-701.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၀၂",
+    "subTitle": "မြောက်ပိုင်းမှ မတည်ငြိမ်မှုများ",
+    "path": "content/chapter-702.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၀၃",
+    "subTitle": "နှင်းပွင့်များနောက်ကွယ်မှ အမှန်တရား",
+    "path": "content/chapter-703.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၀၄",
+    "subTitle": "ဆောင်းရာသီ နောက်တစ်ကြိမ်ရောက်ရှိလာခြင်း",
+    "path": "content/chapter-704.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၀၅",
+    "subTitle": "အနောက်ပိုင်းဟူမှ ရှုံးနိမ့်ခြင်း၏ ဝမ်းနည်းဖွယ်သီချင်း",
+    "path": "content/chapter-705.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၀၆",
+    "subTitle": "ရှီးလျန်ကို ငြိမ်းချမ်းစေခြင်း",
+    "path": "content/chapter-706.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၀၇",
+    "subTitle": "ကျန်းနန်မှ ပရမ်းပတာအခြေအနေ",
+    "path": "content/chapter-707.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၀၈",
+    "subTitle": "မြို့တော်နှင့် ကျန်းနန်မှ သွေးများ",
+    "path": "content/chapter-708.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၀၉",
+    "subTitle": "ဂျင်းဒူးတွင် မည်သူသတ်ဖြတ်နေသနည်း။",
+    "path": "content/chapter-709.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၁၀",
+    "subTitle": "ခန်းမရှေ့မှ နှလုံးကြေကွဲခြင်း",
+    "path": "content/chapter-710.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၁၁",
+    "subTitle": "ဘုရင်မင်းမြတ်ကို တစ်ယောက်တည်း ရင်ဆိုင်သော သာမန်ပြည်သူ (အပိုင်း ၁)",
+    "path": "content/chapter-711.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၁၂",
+    "subTitle": "သာမန်ပြည်သူတစ်ဦး ဧကရာဇ်အား တစ်ယောက်တည်း ရင်ဆိုင်ခြင်း (အပိုင်း ၂)",
+    "path": "content/chapter-712.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၁၃",
+    "subTitle": "သာမန်ပြည်သူတစ်ဦး ဧကရာဇ်အား တစ်ယောက်တည်း ရင်ဆိုင်ခြင်း (အပိုင်း ၃)",
+    "path": "content/chapter-713.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၁၄",
+    "subTitle": "သာမန်ပြည်သူတစ်ဦး ဧကရာဇ်အား တစ်ယောက်တည်း ရင်ဆိုင်ခြင်း (အပိုင်း ၄)",
+    "path": "content/chapter-714.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၁၅",
+    "subTitle": "သာမန်ပြည်သူတစ်ဦး ဧကရာဇ်အား တစ်ယောက်တည်း ရင်ဆိုင်ခြင်း (အပိုင်း ၅)",
+    "path": "content/chapter-715.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၁၆",
+    "subTitle": "ချန်းတောင်တွင် နှင်းဓားများနှင့် နှင်းခဲများရှိသည် (အပိုင်း ၁)",
+    "path": "content/chapter-716.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၁၇",
+    "subTitle": "ချန်းတောင်တွင် နှင်းဓားများနှင့် နှင်းခဲများရှိသည် (အပိုင်း ၂)",
+    "path": "content/chapter-717.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၁၈",
+    "subTitle": "ချန်းတောင်တွင် နှင်းဓားများနှင့် နှင်းခဲများရှိသည် (အပိုင်း ၃)",
+    "path": "content/chapter-718.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၁၉",
+    "subTitle": "ချန်းတောင်တွင် နှင်းဓားများနှင့် နှင်းခဲများရှိသည် (အပိုင်း ၄)",
+    "path": "content/chapter-719.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၂၀",
+    "subTitle": "ကျောက်တောင်တု",
+    "path": "content/chapter-720.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၂၁",
+    "subTitle": "နှလုံးသားက မြောက်အရပ်သို့",
+    "path": "content/chapter-721.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၂၂",
+    "subTitle": "ခရီးလမ်းပေါ်မှာ",
+    "path": "content/chapter-722.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၂၃",
+    "subTitle": "နှင်းထဲမှ ရုတ်တရက် ဖရိုဖရဲမှု",
+    "path": "content/chapter-723.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၂၄",
+    "subTitle": "မြောက်လေည",
+    "path": "content/chapter-724.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၂၅",
+    "subTitle": "တစ်ချိန်က တောင်တစ်လုံးရှိခဲ့သည်",
+    "path": "content/chapter-725.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၂၆",
+    "subTitle": "တောင်ထဲမှာ ကျောင်းတော်တစ်ခုရှိတယ်",
+    "path": "content/chapter-726.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၂၇",
+    "subTitle": "ကျောင်းတော်ထဲမှ တစ်စုံတစ်ယောက် (အပိုင်း ၁)",
+    "path": "content/chapter-727.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၂၈",
+    "subTitle": "ကျောင်းတော်ထဲမှ တစ်စုံတစ်ယောက် (အပိုင်း ၂)",
+    "path": "content/chapter-728.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၂၉",
+    "subTitle": "ကျောင်းတော်ထဲမှ တစ်စုံတစ်ယောက် (အပိုင်း ၃)",
+    "path": "content/chapter-729.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၃၀",
+    "subTitle": "ထိုလူက ပုံပြင်တစ်ပုဒ် ပြောပြခဲ့သည်",
+    "path": "content/chapter-730.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၃၁",
+    "subTitle": "ရောင်ခြည်ဖြာထွက်မှုနှင့် ဒဏ္ဍာရီ၏ မြင်ကွင်း",
+    "path": "content/chapter-731.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၃၂",
+    "subTitle": "တစ်ယောက်တည်း၏ အထီးကျန်ခြင်း",
+    "path": "content/chapter-732.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၃၃",
+    "subTitle": "အစွမ်းထက်ဆုံးပုဂ္ဂိုလ်၏ အမည်",
+    "path": "content/chapter-733.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၃၄",
+    "subTitle": "ဥယျာဉ်တစ်ခုက ပြန်လည်မရယူနိုင်သော ရေကန်မရှိ (အပိုင်း ၁)",
+    "path": "content/chapter-734.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၃၅",
+    "subTitle": "ဥယျာဉ်တစ်ခုက ပြန်လည်မရယူနိုင်သော ရေကန်မရှိ (အပိုင်း ၂)",
+    "path": "content/chapter-735.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၃၆",
+    "subTitle": "နေဝင်ချိန်",
+    "path": "content/chapter-736.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၃၇",
+    "subTitle": "ညှိုးနွမ်းခြင်း",
+    "path": "content/chapter-737.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၃၈",
+    "subTitle": "နေ့လည်ခင်း (အပိုင်း ၁)",
+    "path": "content/chapter-738.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၃၉",
+    "subTitle": "နေ့လည်ခင်း (အပိုင်း ၂)",
+    "path": "content/chapter-739.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၄၀",
+    "subTitle": "ဖန်သားပန်း",
+    "path": "content/chapter-740.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၄၁",
+    "subTitle": "နန်းတော်ရှေ့မှ မိုးရွာသောနေ့",
+    "path": "content/chapter-741.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၄၂",
+    "subTitle": "နန်းတော်ရှေ့ လျှောက်သွားခြင်း၊ မည်သူသေမည်နည်း",
+    "path": "content/chapter-742.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၄၃",
+    "subTitle": "ချင်ပြက္ခဒိန် ၁၂ နှစ်မှ သက်တံ (အပိုင်း ၁)",
+    "path": "content/chapter-743.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၄၄",
+    "subTitle": "ချင်ပြက္ခဒိန် ၁၂ နှစ်မှ သက်တံ (အပိုင်း ၂)",
+    "path": "content/chapter-744.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၄၅",
+    "subTitle": "ချင်ပြက္ခဒိန် ၁၂ နှစ်မှ သက်တံ (အပိုင်း ၃)",
+    "path": "content/chapter-745.html"
+  },
+  {
+    "chapterTitle": "အခန်း ၇၄၆",
+    "subTitle": "နောက်ဆက်တွဲ",
+    "path": "content/chapter-746.html"
+  }
+]

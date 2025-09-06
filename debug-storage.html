@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Debug Storage</title>
+</head>
+<body>
+    <h1>Storage Debug</h1>
+    <button onclick="showStorage()">Show Current Storage</button>
+    <button onclick="clearStorage()">Clear All Storage</button>
+    <button onclick="testSave()">Test Save Preferences</button>
+    <pre id="output"></pre>
+
+    <script>
+        function showStorage() {
+            const output = document.getElementById('output');
+            const keys = ['novel-preferences', 'novel-reading-state', 'novel-ui-state', 'novel-session-data'];
+            let result = 'Current Storage:\n\n';
+            
+            keys.forEach(key => {
+                const value = localStorage.getItem(key);
+                result += `${key}: ${value ? JSON.stringify(JSON.parse(value), null, 2) : 'null'}\n\n`;
+            });
+            
+            output.textContent = result;
+        }
+
+        function clearStorage() {
+            ['novel-preferences', 'novel-reading-state', 'novel-ui-state', 'novel-session-data'].forEach(key => {
+                localStorage.removeItem(key);
+            });
+            document.getElementById('output').textContent = 'Storage cleared!';
+        }
+
+        function testSave() {
+            const testPrefs = {
+                theme: 'dark',
+                font: 'pyidaungsu',
+                fontSize: 'large',
+                lineHeight: 'normal',
+                textAlign: 'left',
+                pageWidth: 'normal'
+            };
+            
+            localStorage.setItem('novel-preferences', JSON.stringify({
+                data: testPrefs,
+                version: '1.0.0',
+                timestamp: new Date().toISOString()
+            }));
+            
+            document.getElementById('output').textContent = 'Test preferences saved!';
+        }
+
+        // Show storage on load
+        showStorage();
+    </script>
+</body>
+</html>
