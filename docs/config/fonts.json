@@ -1,0 +1,59 @@
+{
+  "fonts": {
+    "system": {
+      "name": "System Font",
+      "family": "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+      "weights": ["400", "500", "600", "700"],
+      "fallback": ["sans-serif"]
+    },
+    "myanmarsanpya": {
+      "name": "MyanmarSanpya",
+      "family": "'MyanmarSanpya', system-ui, sans-serif",
+      "weights": ["400", "500", "600", "700"],
+      "fallback": ["system-ui", "sans-serif"]
+    },
+    "myanmartagu": {
+      "name": "MyanmarTagu",
+      "family": "'MyanmarTagu', system-ui, sans-serif",
+      "weights": ["400", "500", "600", "700"],
+      "fallback": ["system-ui", "sans-serif"]
+    },
+    "masterpiecestadium": {
+      "name": "MasterpieceStadium",
+      "family": "'MasterpieceStadium', system-ui, sans-serif",
+      "weights": ["400", "500", "600", "700"],
+      "fallback": ["system-ui", "sans-serif"]
+    },
+    "pyidaungsu": {
+      "name": "Pyidaungsu",
+      "family": "'Pyidaungsu', Georgia, serif",
+      "weights": ["400", "500", "600", "700"],
+      "fallback": ["Georgia", "Times New Roman", "serif"]
+    }
+  },
+  "defaultFont": "system",
+  "fontSizes": {
+    "small": {
+      "base": "0.875rem",
+      "lg": "1rem",
+      "xl": "1.125rem",
+      "2xl": "1.25rem",
+      "3xl": "1.5rem"
+    },
+    "medium": {
+      "base": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.25rem",
+      "2xl": "1.5rem",
+      "3xl": "1.875rem"
+    },
+    "large": {
+      "base": "1.125rem",
+      "lg": "1.25rem",
+      "xl": "1.375rem",
+      "2xl": "1.625rem",
+      "3xl": "2rem"
+    }
+  },
+  "defaultFontSize": "medium"
+}
